@@ -1,0 +1,3557 @@
+{
+ "apple__black_rot": {
+  "label": "apple__black_rot",
+  "name": {
+   "uk": "Чорна гниль",
+   "en": "Black rot"
+  },
+  "pathogen": {
+   "uk": "Botryosphaeria obtusa",
+   "en": "Botryosphaeria obtusa"
+  },
+  "kind": "focal",
+  "urgency": "medium",
+  "summary": {
+   "uk": "Один гриб дає три різні ураження: плямистість «жаб'яче око» на листі, чорну гниль на плодах і ракові рани на гілках. Джерелом зараження є саме рани на деревині, тож обрізка тут важливіша за обробки листя.",
+   "en": "One fungus causes three different lesions: frogeye leaf spot on foliage, black rot on fruit and cankers on branches. Infection starts from wounds in the wood, so pruning matters more here than spraying the leaves."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "На листі від опадання пелюсток з'являються дрібні круглі бурі плями, оточені темно-бурими концентричними кільцями, — схожі на жаб'яче око.",
+     "en": "From petal fall, small round brown spots appear on leaves, ringed by dark brown concentric circles — the look of a frog's eye."
+    },
+    "source": "psu"
+   },
+   {
+    "text": {
+     "uk": "На плодах — круглі бурі злегка вдавлені плями.",
+     "en": "On fruit, round brown slightly sunken lesions."
+    },
+    "source": "psu"
+   },
+   {
+    "text": {
+     "uk": "На гілках спершу трохи вдавлені червонувато-бурі ділянки кори; згодом деревина всихає, чорніє, а краї рани розтріскуються.",
+     "en": "On branches, slightly sunken reddish brown areas of bark appear first; later the wood dries out, turns black, and the edges of the canker crack."
+    },
+    "source": "psu"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 9,
+    "max": 30
+   },
+   "leaf_wetness_hours_min": 4.5,
+   "text": {
+    "uk": "Оптимум для зараження листя — близько 26 °C за 4,5 години зволоження. Нижче 8 °C зараження листя не відбувається навіть після двох діб мокрого листка. Для зараження плодів потрібно більше: 9 годин зволоження за 20–24 °C.",
+    "en": "Leaf infection is optimal near 26 °C with 4.5 hours of wetness. Below 8 °C leaves are not infected even after two days of wet foliage. Fruit infection needs more: 9 hours of wetness at 20–24 °C."
+   },
+   "quote": {
+    "en": "The optimum temperature for leaf infections is around 26.6°C with 4.5 hours of leaf wetness ... Leaf infection will not occur, however, at 46°F even when leaves have been wet for 48 hours."
+   },
+   "source": "wvu_black_rot"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Вирізати ракові рани щонайменше на 38 см нижче ураженої ділянки, а зрізане спалити або закопати — не залишати в саду.",
+     "en": "Cut out cankers at least 38 cm below the affected area, and burn or bury what you remove — do not leave it in the orchard."
+    },
+    "quote": {
+     "en": "Prune and remove cankers at least 15 inches below the basal end; properly dispose of prunings by burial or burning."
+    },
+    "source": "psu"
+   },
+   {
+    "text": {
+     "uk": "Дезінфікувати інструмент між зрізами: свіжий зріз сам є місцем, через яке заходить інфекція.",
+     "en": "Disinfect tools between cuts: a fresh cut is itself a way in for infection."
+    },
+    "source": "psu"
+   },
+   {
+    "text": {
+     "uk": "Прибирати муміфіковані плоди й суху деревину — вони є джерелом спор.",
+     "en": "Remove mummified fruit and dead wood — they are the source of spores."
+    },
+    "source": "unh"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Не залишати в саду обрізані гілки й повалену деревину: гриб живе на відмерлій деревині й звідти заражає дерево.",
+     "en": "Do not leave prunings or fallen wood in the orchard: the fungus lives on dead wood and infects the tree from there."
+    },
+    "source": "unh"
+   }
+  ],
+  "sources": {
+   "psu": {
+    "title": "Apple Disease — Black Rot and Frogeye Leaf Spot",
+    "org": "Penn State Extension",
+    "url": "https://extension.psu.edu/apple-disease-black-rot-and-frogeye-leaf-spot",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "unh": {
+    "title": "Frogeye leaf spot and black rot on Apple",
+    "org": "University of New Hampshire Extension",
+    "url": "https://extension.unh.edu/resource/frogeye-leaf-spot-black-rot-apple-0",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "wvu_black_rot": {
+    "title": "Black Rot Disease in Apples",
+    "org": "West Virginia University Extension",
+    "url": "https://extension.wvu.edu/lawn-gardening-pests/plant-disease/tree-fruit-disease/black-rot-disease-in-apples",
+    "accessed": "2026-09-07",
+    "license": "матеріал служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "apple__cedar_rust": {
+  "label": "apple__cedar_rust",
+  "name": {
+   "uk": "Іржа яблуні",
+   "en": "Cedar apple rust"
+  },
+  "pathogen": {
+   "uk": "Gymnosporangium juniperi-virginianae",
+   "en": "Gymnosporangium juniperi-virginianae"
+  },
+  "kind": "focal",
+  "urgency": "low",
+  "summary": {
+   "uk": "Іржа не може завершити цикл на самій лише яблуні: їй потрібен другий господар — ялівець або червоний кедр поблизу. Через це найдієвіший захід лежить поза садом. Впізнається за яскраво-оранжевими плямами, яких немає в жодної іншої хвороби яблуні.",
+   "en": "Rust cannot complete its cycle on apple alone: it needs a second host — a juniper or red cedar nearby. That is why the most effective measure lies outside the orchard. It is recognised by bright orange spots that no other apple disease produces."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Наприкінці весни чи на початку літа на ВЕРХНЬОМУ боці листка з'являються яскраві жовто-оранжеві плями діаметром 3–6 мм.",
+     "en": "In late spring or early summer, bright yellow orange spots 3–6 mm across appear on the UPPER leaf surface."
+    },
+    "quote": {
+     "en": "In late spring or early summer, bright, yellow-orange spots approximately 1/8 to 1/4 inch in diameter form on the upper surface of leaves."
+    },
+    "source": "umn_rust"
+   },
+   {
+    "text": {
+     "uk": "Плями збільшуються, і на НИЖНЬОМУ боці листка під ними виростають пальцеподібні вирости — це друга стадія й найточніша ознака.",
+     "en": "The spots enlarge, and finger-like structures grow beneath them on the LOWER leaf surface — the second stage, and the most reliable sign."
+    },
+    "source": "umn_rust"
+   },
+   {
+    "text": {
+     "uk": "На плодах теж бувають оранжево-жовті плями; ураження псує якість і спричиняє передчасне опадання.",
+     "en": "Orange yellow spots also appear on fruit; infection spoils quality and causes premature drop."
+    },
+    "source": "umn_rust"
+   }
+  ],
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Оглянути ялівці поблизу: на них торішнє зараження дає бурі кулясті нарости, з яких після весняних дощів виходять оранжеві драглисті «ріжки». Це і є джерело спор.",
+     "en": "Inspect nearby junipers: last year's infection leaves brown round galls on them, and after spring rains orange gelatinous horns emerge from these. That is the source of spores."
+    },
+    "source": "umn_rust"
+   },
+   {
+    "text": {
+     "uk": "Вирізати ці нарости з ялівцю — прийнятна альтернатива видаленню самого дерева.",
+     "en": "Cutting these galls out of the juniper is an acceptable alternative to removing the tree itself."
+    },
+    "source": "umn_rust"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Прибрати червоний кедр і ялівець поблизу саду. Повністю знищити джерело складно: спори переносяться вітром на кілька кілометрів, тож це зменшує тиск, а не усуває його.",
+     "en": "Remove red cedar and juniper near the orchard. Eliminating the source entirely is hard: spores travel several kilometres on the wind, so this reduces pressure rather than removing it."
+    },
+    "source": "umn_rust"
+   },
+   {
+    "text": {
+     "uk": "Стійкі сорти — головний захід для нових насаджень.",
+     "en": "Resistant cultivars are the main measure for new plantings."
+    },
+    "source": "iastate"
+   }
+  ],
+  "sources": {
+   "umn_rust": {
+    "title": "Cedar-apple rust and related rust diseases",
+    "org": "University of Minnesota Extension",
+    "url": "https://extension.umn.edu/plant-diseases/cedar-apple-rust",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "iastate": {
+    "title": "Cedar-Apple Rust",
+    "org": "Iowa State University Extension",
+    "url": "https://yardandgarden.extension.iastate.edu/encyclopedia/cedar-apple-rust",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "apple__healthy": {
+  "label": "apple__healthy",
+  "name": {
+   "uk": "Ознак хвороби не виявлено",
+   "en": "No signs of disease"
+  },
+  "kind": "healthy",
+  "urgency": "none",
+  "summary": {
+   "uk": "На цьому знімку система не бачить ознак жодної з хвороб яблуні, які вона вміє розпізнавати. Це не те саме, що «рослина здорова»: рання стадія багатьох хвороб на фото ще не видна, а частина уражень починається на нижньому боці листка або на тих листках, що не потрапили в кадр.",
+   "en": "In this photo the system sees no signs of any apple disease it can recognise. That is not the same as the plant being healthy: the early stage of many diseases is not yet visible in a photo, and some infections begin on the underside of leaves or on leaves outside the frame."
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Оглядати нижній бік листя й внутрішню частину крони: парша й борошниста роса починаються там, де листя довше лишається вологим.",
+     "en": "Inspect the underside of leaves and the inside of the canopy: scab and powdery mildew start where foliage stays wet longest."
+    },
+    "source": "umn_apple"
+   },
+   {
+    "text": {
+     "uk": "Прибирати опале листя з-під дерев: саме в ньому зимують збудники парші та чорної гнилі.",
+     "en": "Remove fallen leaves from under the trees: this is where the scab and black rot pathogens overwinter."
+    },
+    "source": "umn_apple"
+   },
+   {
+    "text": {
+     "uk": "Стежити за станом гілок — вдавлені червонувато-бурі ділянки кори є початком ракових ран.",
+     "en": "Watch the branches — sunken reddish brown patches of bark are the beginning of cankers."
+    },
+    "source": "umn_apple"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Обрізка на провітрювання крони: листя, яке швидше висихає, менше часу лишається придатним для зараження.",
+     "en": "Prune to open the canopy: foliage that dries faster stays susceptible to infection for less time."
+    },
+    "source": "umn_apple"
+   },
+   {
+    "text": {
+     "uk": "Стійкі сорти для нових насаджень — найдешевший захід на багато років уперед.",
+     "en": "Resistant cultivars for new plantings are the cheapest measure for many years ahead."
+    },
+    "source": "umn_apple"
+   }
+  ],
+  "sources": {
+   "umn_apple": {
+    "title": "Apple scab of apples and crabapples",
+    "org": "University of Minnesota Extension",
+    "url": "https://extension.umn.edu/plant-diseases/apple-scab",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "apple__scab": {
+  "label": "apple__scab",
+  "name": {
+   "uk": "Парша",
+   "en": "Apple scab"
+  },
+  "pathogen": {
+   "uk": "Venturia inaequalis",
+   "en": "Venturia inaequalis"
+  },
+  "kind": "focal",
+  "urgency": "medium",
+  "summary": {
+   "uk": "Грибкове захворювання яблуні, що уражає листя й плоди. Розвивається в прохолодну вологу погоду навесні: зараження відбувається, коли листок лишається мокрим достатньо довго, а скільки саме — залежить від температури. Плоди з паршею придатні до вживання, але втрачають товарний вигляд і гірше зберігаються; сильне ураження листя послаблює дерево.",
+   "en": "A fungal disease of apple affecting leaves and fruit. It develops in cool wet spring weather: infection happens when a leaf stays wet long enough, and how long depends on the temperature. Scabbed fruit is still edible but loses market quality and stores poorly; heavy leaf infection weakens the tree."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Спершу на листках суцвіть біля цвітіння або на молодих листках і зав'язі після опадання пелюсток з'являються дрібні опуклі оливкові плями з нечітким «пухнастим» краєм.",
+     "en": "Small raised olive coloured spots with a blurred fuzzy edge appear first on fruit cluster leaves around bloom, or on young leaves and fruitlets after petal fall."
+    },
+    "source": "netreefruit"
+   },
+   {
+    "text": {
+     "uk": "На плодах ураження спочатку мають вигляд сірих або чорних плям, які в міру росту плоду вкриваються тріщинами.",
+     "en": "On fruit the lesions first look like grey or black spots, which crack as the fruit grows."
+    },
+    "source": "netreefruit"
+   },
+   {
+    "text": {
+     "uk": "Від зараження до появи видимих ознак минає від 9 до 17 днів залежно від температури — тобто плями на листку означають дощі, які були приблизно два тижні тому.",
+     "en": "It takes 9 to 17 days from infection to visible symptoms, depending on temperature — so spots on a leaf point to rain about two weeks ago."
+    },
+    "source": "netreefruit"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 16,
+    "max": 24
+   },
+   "leaf_wetness_hours_min": 9,
+   "text": {
+    "uk": "Спорам потрібно кілька годин вологи на поверхні листка, щоб почати зараження, і тривалість залежить від температури. Біля нуля потрібно дві доби зволоження, а за 16–24 °C — лише 9 годин.",
+    "en": "Spores need several hours of moisture on the leaf surface to start an infection, and the duration depends on temperature. Near freezing two days of wetness are needed; at 16–24 °C only 9 hours."
+   },
+   "quote": {
+    "en": "Near freezing, the fungus needs two days of leaf wetness to infect, while at 61ºF to 75ºF it takes only 9 hours."
+   },
+   "source": "netreefruit"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Прибрати опале листя з-під дерев до розпускання бруньок навесні: саме в ньому зимує збудник. У садах листя підмітають і подрібнюють косарками навесні до розпускання бруньок.",
+     "en": "Remove fallen leaves from under the trees before bud break in spring: this is where the pathogen overwinters. In orchards the leaves are swept up and shredded with mowers in spring before bud break."
+    },
+    "quote": {
+     "en": "Leaves on the orchard floor are swept and ground up using mowers or flail choppers in the spring before bud break."
+    },
+    "source": "netreefruit"
+   },
+   {
+    "text": {
+     "uk": "Обрізка для провітрювання крони: листя, яке швидше висихає, менше часу лишається придатним для зараження.",
+     "en": "Prune to ventilate the canopy: foliage that dries faster stays susceptible to infection for less time."
+    },
+    "source": "umn_extension"
+   }
+  ],
+  "chemical": [
+   {
+    "active_ingredient": {
+     "uk": "захисні фунгіциди (загальний режим)",
+     "en": "protectant fungicides (general programme)"
+    },
+    "interval_days": 7,
+    "quote": {
+     "en": "Commercial management requires fungicide applications at approximately weekly intervals from bud break to two weeks post-bloom."
+    },
+    "text": {
+     "uk": "У промислових садах обробки проводять приблизно щотижня від розпускання бруньок до двох тижнів після цвітіння.",
+     "en": "In commercial orchards sprays are applied roughly weekly from bud break until two weeks after bloom."
+    },
+    "source": "netreefruit",
+    "note": {
+     "uk": "Джерело прямо радить орієнтуватися на прогноз ризику, а не на календар, — тобто обробляти перед періодом зволоження, а не через рівні проміжки.",
+     "en": "The source explicitly advises following a risk forecast rather than a calendar — that is, spraying ahead of a wetting period rather than at fixed intervals."
+    }
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Стійкі сорти — найдешевший захід на багато років уперед. Для нових насаджень це рішення важливіше за будь-яку схему обробок.",
+     "en": "Resistant cultivars are the cheapest measure for many years ahead. For new plantings this decision matters more than any spray programme."
+    },
+    "source": "umn_extension"
+   }
+  ],
+  "sources": {
+   "netreefruit": {
+    "title": "Apple Scab — New England Tree Fruit Management Guide",
+    "org": "UMass Amherst",
+    "url": "https://netreefruit.org/apples/diseases/apple-scab",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "umn_extension": {
+    "title": "Apple scab of apples and crabapples",
+    "org": "University of Minnesota Extension",
+    "url": "https://extension.umn.edu/plant-diseases/apple-scab",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "corn__common_rust": {
+  "label": "corn__common_rust",
+  "name": {
+   "uk": "Звичайна іржа",
+   "en": "Common rust"
+  },
+  "pathogen": {
+   "uk": "Puccinia sorghi",
+   "en": "Puccinia sorghi"
+  },
+  "kind": "focal",
+  "urgency": "low",
+  "summary": {
+   "uk": "Трапляється щосезону, але рідко завдає відчутної шкоди. Впізнається безпомилково: іржаво-руді пустули, які видно з ОБОХ боків листка й з яких при дотику осипається рудий порошок.",
+   "en": "It occurs every season but rarely causes noticeable damage. Unmistakable: rust coloured pustules visible on BOTH sides of the leaf, shedding a rusty powder when touched."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Розсіяні пустули іржавого кольору на обох боках листка.",
+     "en": "Scattered rust coloured pustules on both sides of the leaf."
+    },
+    "quote": {
+     "en": "Common rust symptoms occur between V12 and R4 and include sporadic rust-colored pustules, which can be detected on both sides of the leaves."
+    },
+    "source": "uada"
+   },
+   {
+    "text": {
+     "uk": "Пустули випуклі й порошать при дотику — цим іржа відрізняється від плямистостей, де тканина плоска й суха.",
+     "en": "The pustules are raised and powdery to the touch — this distinguishes rust from leaf spots, where the tissue is flat and dry."
+    },
+    "source": "uada"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 16,
+    "max": 25
+   },
+   "humidity_min": 90,
+   "text": {
+    "uk": "Прохолодна волога погода за 16–25 °C і високої вологості. У спеку розвиток пригнічується, тож у сухі жаркі сезони іржа майже не шкодить.",
+    "en": "Cool wet weather at 16–25 °C with high humidity. Heat suppresses development, so in dry hot seasons rust does little harm."
+   },
+   "quote": {
+    "en": "It is environmental and prolific in cool, wet conditions."
+   },
+   "source": "uada"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Здебільшого спеціальних заходів не потребує: за звичайних умов шкода невелика й обробки не окупаються.",
+     "en": "Usually no special measures are needed: under normal conditions the damage is small and sprays do not pay off."
+    },
+    "source": "uada"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Стійкі гібриди — для ділянок, де іржа щороку проявляється сильно.",
+     "en": "Resistant hybrids — for fields where rust appears strongly every year."
+    },
+    "source": "uada"
+   }
+  ],
+  "sources": {
+   "cpn": {
+    "title": "An Overview of Northern Corn Leaf Blight",
+    "org": "Crop Protection Network",
+    "url": "https://cropprotectionnetwork.org/publications/an-overview-of-northern-corn-leaf-blight",
+    "accessed": "2026-08-29",
+    "license": "матеріал міжуніверситетської мережі; використано витяги з атрибуцією"
+   },
+   "ncsu_gls": {
+    "title": "Gray Leaf Spot in Corn",
+    "org": "NC State Extension",
+    "url": "https://content.ces.ncsu.edu/gray-leaf-spot-in-corn",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "uada": {
+    "title": "Corn Diseases",
+    "org": "University of Arkansas Division of Agriculture",
+    "url": "https://www.uaex.uada.edu/farm-ranch/pest-management/plant-disease/corn.aspx",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "corn__gray_leaf_spot": {
+  "label": "corn__gray_leaf_spot",
+  "name": {
+   "uk": "Сіра плямистість",
+   "en": "Gray leaf spot"
+  },
+  "pathogen": {
+   "uk": "Cercospora zeae-maydis",
+   "en": "Cercospora zeae-maydis"
+  },
+  "kind": "focal",
+  "urgency": "medium",
+  "summary": {
+   "uk": "Одна з найшкідливіших хвороб кукурудзи за врожаєм. Впізнається за ПРЯМОКУТНИМИ плямами, обмеженими жилками, — на відміну від сигароподібних при гельмінтоспоріозі. Розвивається в теплу задушливу погоду.",
+   "en": "One of the most yield-damaging diseases of maize. Recognised by RECTANGULAR lesions bounded by the veins — unlike the cigar-shaped ones of northern leaf blight. It develops in warm muggy weather."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Прямокутні плями, що починаються з нижніх листків рослини.",
+     "en": "Rectangular lesions starting on the lower leaves of the plant."
+    },
+    "quote": {
+     "en": "Identifying characteristics of gray leaf spot are rectangular lesions that start on the bottom leaves of the plant."
+    },
+    "source": "ncsu_gls"
+   },
+   {
+    "text": {
+     "uk": "Плями обмежені жилками листка, через що мають рівні паралельні краї — це головна відмінність від гельмінтоспоріозу.",
+     "en": "The lesions are bounded by the leaf veins, giving them straight parallel edges — the main difference from northern leaf blight."
+    },
+    "source": "ncsu_gls"
+   },
+   {
+    "text": {
+     "uk": "Тяжкість ураження сильно залежить від сприйнятливості гібрида.",
+     "en": "Severity depends strongly on how susceptible the hybrid is."
+    },
+    "source": "ncsu_gls"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 21,
+    "max": 32
+   },
+   "humidity_min": 90,
+   "leaf_wetness_hours_min": 12,
+   "text": {
+    "uk": "Тепліше за гельмінтоспоріоз — 21–32 °C — і потребує довшого зволоження: від 12 годин, або вологості понад 90%.",
+    "en": "Warmer than northern leaf blight — 21–32 °C — and it needs longer wetness: from 12 hours, or humidity above 90%."
+   },
+   "quote": {
+    "en": "GLS can rapidly increase with warm temperatures (70°-90°), high humidity (greater than 90%) or periods of prolonged leaf wetness (12+ hours)"
+   },
+   "source": "umn_gls"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Загортання решток і сівозміна: збудник зимує в рештках кукурудзи.",
+     "en": "Incorporating residues and crop rotation: the pathogen overwinters in maize debris."
+    },
+    "source": "ncsu_gls"
+   },
+   {
+    "text": {
+     "uk": "Уникати надмірного загущення — воно подовжує час зволоження листя.",
+     "en": "Avoid excessive plant density — it lengthens the time foliage stays wet."
+    },
+    "source": "uada"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Вибір гібрида з підвищеною стійкістю — найдієвіший захід.",
+     "en": "Choosing a hybrid with higher resistance is the most effective measure."
+    },
+    "source": "ncsu_gls"
+   }
+  ],
+  "sources": {
+   "cpn": {
+    "title": "An Overview of Northern Corn Leaf Blight",
+    "org": "Crop Protection Network",
+    "url": "https://cropprotectionnetwork.org/publications/an-overview-of-northern-corn-leaf-blight",
+    "accessed": "2026-08-29",
+    "license": "матеріал міжуніверситетської мережі; використано витяги з атрибуцією"
+   },
+   "ncsu_gls": {
+    "title": "Gray Leaf Spot in Corn",
+    "org": "NC State Extension",
+    "url": "https://content.ces.ncsu.edu/gray-leaf-spot-in-corn",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "uada": {
+    "title": "Corn Diseases",
+    "org": "University of Arkansas Division of Agriculture",
+    "url": "https://www.uaex.uada.edu/farm-ranch/pest-management/plant-disease/corn.aspx",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "umn_gls": {
+    "title": "Gray leaf spot on corn",
+    "org": "University of Minnesota Extension",
+    "url": "https://extension.umn.edu/corn-pest-management/gray-leaf-spot-corn",
+    "accessed": "2026-09-07",
+    "license": "матеріал служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "corn__healthy": {
+  "label": "corn__healthy",
+  "name": {
+   "uk": "Ознак хвороби не виявлено",
+   "en": "No signs of disease"
+  },
+  "kind": "healthy",
+  "urgency": "none",
+  "summary": {
+   "uk": "На цьому знімку система не бачить ознак жодної з хвороб кукурудзи, які вона вміє розпізнавати. Це не те саме, що «рослина здорова»: рання стадія багатьох хвороб на фото ще не видна, а частина уражень починається на нижньому боці листка або на тих листках, що не потрапили в кадр.",
+   "en": "In this photo the system sees no signs of any maize disease it can recognise. That is not the same as the plant being healthy: the early stage of many diseases is not yet visible in a photo, and some infections begin on the underside of leaves or on leaves outside the frame."
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Оглядати нижні листки: і гельмінтоспоріоз, і сіра плямистість починаються знизу й піднімаються вгору.",
+     "en": "Inspect the lower leaves: both northern leaf blight and gray leaf spot start low and move upward."
+    },
+    "source": "cpn_h"
+   },
+   {
+    "text": {
+     "uk": "Звертати увагу на форму плям: видовжені «сигари» вздовж листка й прямокутні плями між жилками — це різні хвороби з різними умовами розвитку.",
+     "en": "Pay attention to lesion shape: elongated cigars along the leaf and rectangular lesions between veins are different diseases with different conditions."
+    },
+    "source": "cpn_h"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Загортання решток обробітком: збудники зимують саме в рештках кукурудзи на полі.",
+     "en": "Incorporating residues by tillage: the pathogens overwinter precisely in maize debris in the field."
+    },
+    "source": "cpn_h"
+   },
+   {
+    "text": {
+     "uk": "Сівозміна з відходом від кукурудзи щонайменше на рік.",
+     "en": "Crop rotation away from maize for at least a year."
+    },
+    "source": "cpn_h"
+   },
+   {
+    "text": {
+     "uk": "Вибір гібрида зі стійкістю — різниця між гібридами тут більша за ефект будь-якої обробки.",
+     "en": "Choosing a resistant hybrid — the difference between hybrids here is greater than the effect of any spray."
+    },
+    "source": "cpn_h"
+   }
+  ],
+  "sources": {
+   "cpn_h": {
+    "title": "An Overview of Northern Corn Leaf Blight",
+    "org": "Crop Protection Network",
+    "url": "https://cropprotectionnetwork.org/publications/an-overview-of-northern-corn-leaf-blight",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "corn__northern_leaf_blight": {
+  "label": "corn__northern_leaf_blight",
+  "name": {
+   "uk": "Гельмінтоспоріоз",
+   "en": "Northern leaf blight"
+  },
+  "pathogen": {
+   "uk": "Setosphaeria turcica",
+   "en": "Setosphaeria turcica"
+  },
+  "kind": "focal",
+  "urgency": "medium",
+  "summary": {
+   "uk": "Найупізнаваніша хвороба кукурудзи: довгі «сигароподібні» плями на нижніх листках. Розвивається в прохолодну вологу погоду. Зимує в рештках на полі, тож головні заходи — обробіток і сівозміна.",
+   "en": "The most recognisable disease of maize: long cigar-shaped lesions on the lower leaves. It develops in cool wet weather. It overwinters in field residues, so tillage and rotation are the main measures."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Сигароподібні плями завдовжки 2,5–15 см на нижніх листках, від сіро-зеленого до світло-бурого кольору.",
+     "en": "Cigar-shaped lesions 2.5–15 cm long on the lower leaves, greyish green to light tan."
+    },
+    "quote": {
+     "en": "northern corn leaf blight is easily identified by the 1- to 6-inch cigar-shaped lesions on lower leaves, which may be grayish-green to tan in color"
+    },
+    "source": "cpn"
+   },
+   {
+    "text": {
+     "uk": "Плями видовжені ВЗДОВЖ листка й не обмежені жилками — цим відрізняються від прямокутних плям сірої плямистості.",
+     "en": "The lesions run ALONG the leaf and are not bounded by veins — this distinguishes them from the rectangular lesions of gray leaf spot."
+    },
+    "source": "cpn"
+   },
+   {
+    "text": {
+     "uk": "На стійких гібридах картина інша: плями дрібні, обмежені в розмірі, і спор утворюється менше. Тобто слабкий прояв не завжди означає ранню стадію.",
+     "en": "On resistant hybrids the picture differs: lesions are small, restricted in size, and fewer spores form. So a mild appearance does not always mean an early stage."
+    },
+    "source": "cpn"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 18,
+    "max": 29
+   },
+   "leaf_wetness_hours_min": 6,
+   "text": {
+    "uk": "Помірне тепло 18–27 °C, опади й висока вологість. Для зараження листок мусить лишатися мокрим від 6 до 18 годин. Плями проступають за один-два тижні — тобто те, що видно сьогодні, почалося раніше.",
+    "en": "Moderate warmth of 18–27 °C, rainfall and high humidity. For infection the leaf must stay wet for 6 to 18 hours. Lesions emerge after one or two weeks — so what is visible today began earlier."
+   },
+   "quote": {
+    "en": "Moderate temperatures from 65°F to 80°F, precipitation and high humidity create the optimum environment for NCLB fungus growth ... Infection requires leaf surfaces to be wet for 6 to 18 hours."
+   },
+   "source": "corteva_nclb"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Загортання решток обробітком: без них первинного зараження навесні значно менше.",
+     "en": "Incorporating residues by tillage: without them there is far less primary infection in spring."
+    },
+    "source": "cpn"
+   },
+   {
+    "text": {
+     "uk": "Сівозміна з відходом від кукурудзи щонайменше на рік.",
+     "en": "Crop rotation away from maize for at least a year."
+    },
+    "source": "uada"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Стійкі гібриди — основний захід; різниця між гібридами тут більша, ніж ефект будь-якої обробки.",
+     "en": "Resistant hybrids are the main measure; the difference between hybrids here exceeds the effect of any spray."
+    },
+    "source": "cpn"
+   }
+  ],
+  "sources": {
+   "cpn": {
+    "title": "An Overview of Northern Corn Leaf Blight",
+    "org": "Crop Protection Network",
+    "url": "https://cropprotectionnetwork.org/publications/an-overview-of-northern-corn-leaf-blight",
+    "accessed": "2026-08-29",
+    "license": "матеріал міжуніверситетської мережі; використано витяги з атрибуцією"
+   },
+   "ncsu_gls": {
+    "title": "Gray Leaf Spot in Corn",
+    "org": "NC State Extension",
+    "url": "https://content.ces.ncsu.edu/gray-leaf-spot-in-corn",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "uada": {
+    "title": "Corn Diseases",
+    "org": "University of Arkansas Division of Agriculture",
+    "url": "https://www.uaex.uada.edu/farm-ranch/pest-management/plant-disease/corn.aspx",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "corteva_nclb": {
+    "title": "Managing the Threat of Northern Corn Leaf Blight",
+    "org": "Corteva Agriscience",
+    "url": "https://www.corteva.com/us/Resources/crop-protection/disease-mgmt/managing-threat-northern-corn-leaf-blight.html",
+    "accessed": "2026-09-07",
+    "license": "матеріал служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "cucumber__downy_mildew": {
+  "label": "cucumber__downy_mildew",
+  "name": {
+   "uk": "Пероноспороз",
+   "en": "Downy mildew"
+  },
+  "pathogen": {
+   "uk": "Pseudoperonospora cubensis",
+   "en": "Pseudoperonospora cubensis"
+  },
+  "kind": "focal",
+  "urgency": "high",
+  "summary": {
+   "uk": "Найшвидша хвороба огірка: за вологої погоди знищує листя за тиждень-два. Збудник не гриб, а ооміцет — «водяна пліснява», тому й умови йому потрібні водяні. Головна діагностична ознака — плями КУТАСТОЇ форми, обмежені жилками листка.",
+   "en": "The fastest disease of cucumber: in wet weather it destroys the foliage in a week or two. The pathogen is not a fungus but an oomycete, a water mould, so the conditions it needs are watery. The main diagnostic sign is ANGULAR lesions bounded by the leaf veins."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Жовтуваті або бурувато-жовті КУТАСТІ плями, обмежені дрібними жилками листка. Спершу з'являються на листках у центрі рослини.",
+     "en": "Yellowish or brownish yellow ANGULAR lesions bounded by the small leaf veins. They appear first on leaves in the centre of the plant."
+    },
+    "source": "ncsu_dm"
+   },
+   {
+    "text": {
+     "uk": "З нижнього боку під плямами за вологої погоди помітний тонкий сірий або фіалковий наліт — це спороношення.",
+     "en": "In wet weather a fine grey or purplish growth is visible under the lesions on the leaf underside — this is sporulation."
+    },
+    "source": "ncsu_dm"
+   },
+   {
+    "text": {
+     "uk": "Кутаста форма плям відрізняє пероноспороз від борошнистої роси, де наліт білий і лежить ПОВЕРХ листка.",
+     "en": "The angular shape of the lesions distinguishes downy mildew from powdery mildew, where the growth is white and sits ON TOP of the leaf."
+    },
+    "source": "ncsu_dm"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 15,
+    "max": 20
+   },
+   "humidity_min": 90,
+   "leaf_wetness_hours_min": 6,
+   "text": {
+    "uk": "Дуже волого й помірно прохолодно — 15–20 °C. Для утворення спор потрібно щонайменше 6 годин майже стовідсоткової вологості біля листка; а коли спор уже багато, для проникнення досить і двох годин вільної води.",
+    "en": "Very wet and moderately cool — 15–20 °C. Spore production needs at least 6 hours of near total humidity at the leaf surface; and once spores are abundant, two hours of free moisture is enough for penetration."
+   },
+   "quote": {
+    "en": "Favorable conditions include very wet, humid conditions and moderate temperatures (59-68°F) ... at least 6 hours of 100% relative humidity at the leaf surface for the production of sporangia"
+   },
+   "source": "uw_cdm"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Полив під корінь і вранці, щоб листя встигало просохнути до ночі.",
+     "en": "Water at the root and in the morning, so the foliage dries before night."
+    },
+    "source": "umd"
+   },
+   {
+    "text": {
+     "uk": "Забезпечити провітрювання: підв'язка на шпалеру помітно скорочує час зволоження листя.",
+     "en": "Ensure ventilation: training onto a trellis noticeably shortens the time foliage stays wet."
+    },
+    "source": "umd"
+   },
+   {
+    "text": {
+     "uk": "Видаляти уражене листя й знищувати рештки після збирання.",
+     "en": "Remove affected leaves and destroy residues after harvest."
+    },
+    "source": "umd"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Стійкі гібриди — найдієвіший захід, бо збудник поширюється вітром на великі відстані й ізолювати ділянку неможливо.",
+     "en": "Resistant hybrids are the most effective measure, because the pathogen travels long distances on the wind and a plot cannot be isolated."
+    },
+    "source": "ncsu_dm"
+   }
+  ],
+  "sources": {
+   "ncsu_dm": {
+    "title": "Cucurbit Downy Mildew",
+    "org": "NC State Extension",
+    "url": "https://content.ces.ncsu.edu/cucurbit-downy-mildew",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "umd": {
+    "title": "Downy Mildew of Vegetables",
+    "org": "University of Maryland Extension",
+    "url": "https://extension.umd.edu/resource/downy-mildew-vegetables",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "uw_cdm": {
+    "title": "Cucurbit Downy Mildew",
+    "org": "University of Wisconsin Vegetable Pathology",
+    "url": "https://vegpath.plantpath.wisc.edu/diseases/cucurbit-downy-mildew/",
+    "accessed": "2026-09-07",
+    "license": "матеріал служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "cucumber__healthy": {
+  "label": "cucumber__healthy",
+  "name": {
+   "uk": "Ознак хвороби не виявлено",
+   "en": "No signs of disease"
+  },
+  "kind": "healthy",
+  "urgency": "none",
+  "summary": {
+   "uk": "На цьому знімку система не бачить ознак жодної з хвороб огірка, які вона вміє розпізнавати. Це не те саме, що «рослина здорова»: рання стадія багатьох хвороб на фото ще не видна, а частина уражень починається на нижньому боці листка або на тих листках, що не потрапили в кадр.",
+   "en": "In this photo the system sees no signs of any cucumber disease it can recognise. That is not the same as the plant being healthy: the early stage of many diseases is not yet visible in a photo, and some infections begin on the underside of leaves or on leaves outside the frame."
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Оглядати нижній бік листя: пероноспороз дає там сірий наліт раніше, ніж кутасті плями стають помітними зверху.",
+     "en": "Inspect the underside of the leaves: downy mildew produces a grey growth there before the angular lesions become visible from above."
+    },
+    "source": "ncsu_cuke_h"
+   },
+   {
+    "text": {
+     "uk": "Оглядати листя в центрі рослини — пероноспороз починається саме звідти.",
+     "en": "Inspect the leaves in the centre of the plant — downy mildew starts exactly there."
+    },
+    "source": "ncsu_cuke_h"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Полив під корінь і вранці, щоб листя встигало просохнути до ночі.",
+     "en": "Water at the root and in the morning, so the foliage dries before night."
+    },
+    "source": "ncsu_cuke_h"
+   },
+   {
+    "text": {
+     "uk": "Підв'язка на шпалеру: провітрювання помітно скорочує час зволоження листя.",
+     "en": "Training onto a trellis: ventilation noticeably shortens the time foliage stays wet."
+    },
+    "source": "ncsu_cuke_h"
+   },
+   {
+    "text": {
+     "uk": "Стійкі гібриди — збудник пероноспорозу переноситься вітром на великі відстані, і ізолювати ділянку неможливо.",
+     "en": "Resistant hybrids — the downy mildew pathogen travels long distances on the wind and a plot cannot be isolated."
+    },
+    "source": "ncsu_cuke_h"
+   }
+  ],
+  "sources": {
+   "ncsu_cuke_h": {
+    "title": "Cucurbit Downy Mildew",
+    "org": "NC State Extension",
+    "url": "https://content.ces.ncsu.edu/cucurbit-downy-mildew",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "cucumber__powdery_mildew": {
+  "label": "cucumber__powdery_mildew",
+  "name": {
+   "uk": "Борошниста роса",
+   "en": "Powdery mildew"
+  },
+  "pathogen": {
+   "uk": "Podosphaera xanthii, Erysiphe cichoracearum",
+   "en": "Podosphaera xanthii, Erysiphe cichoracearum"
+  },
+  "kind": "focal",
+  "urgency": "medium",
+  "summary": {
+   "uk": "Білий борошнистий наліт на листі. На відміну від більшості грибкових хвороб, борошнистій росі НЕ потрібна крапельна волога — вона розвивається і в суху погоду за високої вологості повітря. Тому «підсушити листя» тут не спрацьовує.",
+   "en": "A white powdery growth on the leaves. Unlike most fungal diseases, powdery mildew does NOT need free moisture — it develops even in dry weather when air humidity is high. So drying the foliage does not work here."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Білий борошнистий наліт на листках — і на верхньому, і на нижньому боці, а також на стеблах.",
+     "en": "A white powdery growth on the leaves — on both the upper and lower surface, and on the stems."
+    },
+    "source": "ncsu_cuke"
+   },
+   {
+    "text": {
+     "uk": "Наліт лежить ПОВЕРХ тканини й спершу стирається пальцем — цим відрізняється від кутастих плям пероноспорозу, які є в товщі листка.",
+     "en": "The growth sits ON TOP of the tissue and can at first be rubbed off with a finger — this distinguishes it from the angular downy mildew lesions, which are within the leaf."
+    },
+    "source": "ncsu_cuke"
+   },
+   {
+    "text": {
+     "uk": "Уражене листя жовтіє й відмирає, плоди недобирають цукру й дрібнішають.",
+     "en": "Affected leaves yellow and die, and the fruit gets less sugar and stays smaller."
+    },
+    "source": "msu_cucurbits"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 20,
+    "max": 27
+   },
+   "text": {
+    "uk": "20–27 °C за підвищеної вологості повітря. Крапельна вода при цьому НЕ потрібна: зараження можливе навіть за вологості нижче 50%, а суха погода сприяє розселенню спор. Тому «підсушити листя» тут не працює.",
+    "en": "20–27 °C with raised air humidity. Free moisture is NOT required: infection is possible even below 50% humidity, and dry weather favours spore dispersal. So drying the foliage does not work here."
+   },
+   "quote": {
+    "en": "Powdery mildew infections favor humid conditions with temperatures around 68-81°F ... infection can occur at relative humidity below 50%. Dry conditions favor colonization, sporulation, and dispersal."
+   },
+   "source": "umn_pm"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Розріджувати посадки й прибирати нижнє листя для провітрювання.",
+     "en": "Thin the planting and remove lower leaves for ventilation."
+    },
+    "source": "msu_cucurbits"
+   },
+   {
+    "text": {
+     "uk": "Оглядати нижній бік листя: там наліт часто з'являється раніше, ніж зверху.",
+     "en": "Inspect the underside of the leaves: the growth often appears there before it shows on top."
+    },
+    "source": "ncsu_cuke"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Стійкі гібриди; знищення рослинних решток після збирання.",
+     "en": "Resistant hybrids; destruction of plant residues after harvest."
+    },
+    "source": "msu_cucurbits"
+   }
+  ],
+  "sources": {
+   "ncsu_cuke": {
+    "title": "Cucumber Disease Descriptions",
+    "org": "NC State University, Cucurbit Breeding",
+    "url": "https://cucurbitbreeding.wordpress.ncsu.edu/cucumber-breeding/cucumber-disease-handbook/cucumber-disease-descriptions/",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "msu_cucurbits": {
+    "title": "Diseases and Insects in Michigan Cucurbits and their Management (E3276)",
+    "org": "Michigan State University Extension",
+    "url": "https://www.canr.msu.edu/resources/diseases_and_insects_in_michigan_cucurbits_and_their_management_e3276",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "umn_pm": {
+    "title": "Powdery mildew of cucurbits",
+    "org": "University of Minnesota Extension",
+    "url": "https://extension.umn.edu/disease-management/powdery-mildew-cucurbits",
+    "accessed": "2026-09-07",
+    "license": "матеріал служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "grape__black_rot": {
+  "label": "grape__black_rot",
+  "name": {
+   "uk": "Чорна гниль",
+   "en": "Black rot"
+  },
+  "pathogen": {
+   "uk": "Guignardia bidwellii",
+   "en": "Guignardia bidwellii"
+  },
+  "kind": "focal",
+  "urgency": "high",
+  "summary": {
+   "uk": "Одна з найшкідливіших хвороб винограду: здатна знищити врожай повністю. Ягоди буріють, зморщуються й перетворюються на тверді чорні муміфіковані грудки, які лишаються на кущі й стають джерелом зараження наступного року.",
+   "en": "One of the most damaging diseases of grape: it can destroy the crop completely. Berries turn brown, shrivel and become hard black mummies that stay on the vine and become the source of infection the following year."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "На листі — округлі бурі плями з темною облямівкою, усередині яких помітні дрібні чорні крапки (пікніди).",
+     "en": "On leaves, round brown lesions with a dark border, inside which small black dots are visible (pycnidia)."
+    },
+    "source": "sdsu"
+   },
+   {
+    "text": {
+     "uk": "На ягодах спершу світла цятка, далі побуріння всієї ягоди, зморщення й перетворення на тверду чорну мумію.",
+     "en": "On berries, first a pale speck, then browning of the whole berry, shrivelling, and turning into a hard black mummy."
+    },
+    "source": "sdsu"
+   },
+   {
+    "text": {
+     "uk": "Муміфіковані ягоди, що лишились із торішнього сезону, — головне джерело первинного зараження.",
+     "en": "Mummified berries left from last season are the main source of primary infection."
+    },
+    "source": "sdsu"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 20,
+    "max": 32
+   },
+   "leaf_wetness_hours_min": 6,
+   "text": {
+    "uk": "Тепла волога погода. Шести годин зволоження ягід від дощу або роси за температури близько 27 °C достатньо, щоб гриб проник у ягоду.",
+    "en": "Warm wet weather. Six hours of berry wetness from rain or dew at about 27 °C is enough for the fungus to penetrate the berry."
+   },
+   "quote": {
+    "en": "Six hours of fruit wetness from rain or dew at 80 degrees Fahrenheit is sufficient for the fungus to penetrate the fruit."
+   },
+   "source": "sdsu"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Зняти й винести з виноградника всі муміфіковані ягоди — без цього решта заходів працює вполовину.",
+     "en": "Pick off and carry all mummified berries out of the vineyard — without this the other measures work at half strength."
+    },
+    "source": "sdsu"
+   },
+   {
+    "text": {
+     "uk": "Обрізка й підв'язка для провітрювання: сухе гроно не заражається.",
+     "en": "Pruning and tying for ventilation: a dry cluster does not get infected."
+    },
+    "source": "msu_grapes"
+   },
+   {
+    "text": {
+     "uk": "Критичний період захисту — від передцвітіння до двох-чотирьох тижнів після цвітіння; саме тоді ягоди найвразливіші.",
+     "en": "The critical protection window runs from pre-bloom to two to four weeks after bloom; that is when berries are most vulnerable."
+    },
+    "source": "msu_grapes"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Прибирати опале листя й рештки лози, де зимує збудник.",
+     "en": "Remove fallen leaves and cane debris, where the pathogen overwinters."
+    },
+    "source": "sdsu"
+   }
+  ],
+  "sources": {
+   "sdsu": {
+    "title": "Black Rot & Downy Mildew: Two diseases that can rot grapes",
+    "org": "South Dakota State University Extension",
+    "url": "https://extension.sdstate.edu/black-rot-downy-mildew-two-diseases-can-rot-grapes",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "msu_grapes": {
+    "title": "Early season vineyard disease management",
+    "org": "Michigan State University Extension",
+    "url": "https://www.canr.msu.edu/news/early_season_vineyard_disease_management",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "grape__downy_mildew": {
+  "label": "grape__downy_mildew",
+  "name": {
+   "uk": "Мілдью",
+   "en": "Downy mildew"
+  },
+  "pathogen": {
+   "uk": "Plasmopara viticola",
+   "en": "Plasmopara viticola"
+  },
+  "kind": "focal",
+  "urgency": "high",
+  "summary": {
+   "uk": "Найпоширеніша хвороба винограду у вологому кліматі. Збудник не гриб, а ооміцет, тож потребує саме крапельної води. Уражує листя, пагони й грона. Впізнається за «олійною плямою» зверху й білим пухнастим нальотом знизу.",
+   "en": "The most common grape disease in a humid climate. The pathogen is not a fungus but an oomycete, so it needs free water. It affects leaves, shoots and clusters. Recognised by an oil spot on top and a white downy growth underneath."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "З верхнього боку листка — світлі жовтуваті ділянки, що просвічуються, ніби масляна пляма.",
+     "en": "On the upper leaf surface, pale yellowish areas that look translucent, like an oil spot."
+    },
+    "source": "sdsu"
+   },
+   {
+    "text": {
+     "uk": "З нижнього боку під ними за вологої погоди — щільний білий пухнастий наліт. Це головна діагностична ознака.",
+     "en": "Underneath them in wet weather, a dense white downy growth. This is the main diagnostic sign."
+    },
+    "source": "sdsu"
+   },
+   {
+    "text": {
+     "uk": "Уражені молоді грона буріють і всихають.",
+     "en": "Infected young clusters turn brown and dry up."
+    },
+    "source": "msu_grapes"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 13,
+    "max": 29
+   },
+   "text": {
+    "uk": "Зараження відбувається вночі, за високої вологості й температури вище 13 °C. Спори швидко гинуть, коли вологість падає нижче 50%, а температура перевищує 29 °C.",
+    "en": "Infection happens at night, at high humidity and temperatures above 13 °C. Spores die quickly once humidity falls below 50% and temperature exceeds 29 °C."
+   },
+   "quote": {
+    "en": "Conditions favoring infection occur at night, during periods of high humidity and temperatures above 55°F ... Sporangia die fast when relative humidity falls below 50% and when temperature exceeds 29°C."
+   },
+   "source": "msu_grapes"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Підняти зону грон від землі й прибрати нижні пагони: первинне зараження йде від ґрунту з бризками дощу.",
+     "en": "Raise the fruiting zone off the ground and remove the lowest shoots: primary infection comes from the soil in rain splash."
+    },
+    "source": "msu_grapes"
+   },
+   {
+    "text": {
+     "uk": "Провітрювання куща обрізкою й пасинкуванням скорочує час зволоження листя вночі — саме тоді й відбувається зараження.",
+     "en": "Opening the canopy by pruning and shoot thinning shortens night-time leaf wetness — and that is exactly when infection occurs."
+    },
+    "source": "msu_grapes"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Прибирати опале листя, у якому зимують ооспори.",
+     "en": "Remove fallen leaves, in which the oospores overwinter."
+    },
+    "source": "msu_grapes"
+   }
+  ],
+  "sources": {
+   "sdsu": {
+    "title": "Black Rot & Downy Mildew: Two diseases that can rot grapes",
+    "org": "South Dakota State University Extension",
+    "url": "https://extension.sdstate.edu/black-rot-downy-mildew-two-diseases-can-rot-grapes",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "msu_grapes": {
+    "title": "Early season vineyard disease management",
+    "org": "Michigan State University Extension",
+    "url": "https://www.canr.msu.edu/news/early_season_vineyard_disease_management",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "grape__esca": {
+  "label": "grape__esca",
+  "name": {
+   "uk": "Еска",
+   "en": "Esca"
+  },
+  "pathogen": {
+   "uk": "комплекс збудників деревини",
+   "en": "trunk disease complex"
+  },
+  "kind": "diffuse",
+  "urgency": "high",
+  "summary": {
+   "uk": "Хвороба ДЕРЕВИНИ куща, а не листя. Смугастий візерунок на листку — лише зовнішній прояв ураження, що йде всередині лози від старих зрізів. Лікування не існує: після зараження куща вилікувати неможливо, і всі заходи стосуються захисту зрізів під час обрізки.",
+   "en": "A disease of the vine's WOOD, not its leaves. The striped pattern on the leaf is only the outward sign of damage running inside the trunk from old pruning cuts. There is no cure: once a vine is infected it cannot be healed, and every measure concerns protecting cuts during pruning."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Між жилками листка з'являються жовто-бурі або червонувато-бурі ділянки, що дають характерний «тигровий» смугастий візерунок. Зелена тканина лишається лише вузькою смугою вздовж головних жилок.",
+     "en": "Yellow brown or reddish brown areas appear between the leaf veins, giving the characteristic tiger-stripe pattern. Green tissue remains only as a narrow band along the main veins."
+    },
+    "source": "pnw_esca"
+   },
+   {
+    "text": {
+     "uk": "Важка форма — апоплексія: зовні здоровий кущ разом із гронами раптово в'яне й повністю висихає за кілька днів, причому сухе листя лишається на лозі.",
+     "en": "The severe form is apoplexy: an outwardly healthy vine, clusters and all, suddenly wilts and dries out completely within a few days, and the dry leaves stay on the vine."
+    },
+    "source": "pnw_esca"
+   },
+   {
+    "text": {
+     "uk": "На зрізі деревини — темні смуги й клиноподібні некрози, що йдуть від місць обрізки; у старих кущів усередині біла м'яка гниль.",
+     "en": "In cross-section the wood shows dark streaking and wedge-shaped necrosis spreading from pruning wounds; in old vines there is a white soft rot inside."
+    },
+    "source": "pnw_esca"
+   }
+  ],
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Захист зрізів під час зимової обрізки — головний і практично єдиний дієвий підхід. Обробляти зріз треба в межах доби після різу.",
+     "en": "Protecting the cuts during winter pruning is the main and practically the only effective approach. A cut must be treated within a day of being made."
+    },
+    "source": "vt_esca"
+   },
+   {
+    "text": {
+     "uk": "Обрізати за сухої погоди й пізно взимку: свіжий зріз лишається вразливим до кількох місяців.",
+     "en": "Prune in dry weather and late in winter: a fresh cut stays vulnerable for up to several months."
+    },
+    "source": "vt_esca"
+   },
+   {
+    "text": {
+     "uk": "Уражені кущі й вирізану деревину виносити з виноградника й спалювати.",
+     "en": "Carry infected vines and removed wood out of the vineyard and burn them."
+    },
+    "source": "vt_esca"
+   }
+  ],
+  "chemical": [],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Подвійна обрізка та обробка зрізів захисними складами — вкладення в наступні роки, а не в поточний сезон.",
+     "en": "Double pruning and treating cuts with protectant products are an investment in later years, not in the current season."
+    },
+    "source": "vt_esca"
+   }
+  ],
+  "no_cure": {
+   "uk": "Після зараження куща лікування не існує. Заходи захищають лише здорові кущі й нові зрізи.",
+   "quote": {
+    "en": "once a vine is infected, there is no curative treatment"
+   },
+   "source": "vt_esca",
+   "en": "Once a vine is infected there is no cure. The measures protect only healthy vines and fresh cuts."
+  },
+  "sources": {
+   "pnw_esca": {
+    "title": "Grape (Vitis spp.) — Esca, Young Esca, and Petri Disease",
+    "org": "Pacific Northwest Pest Management Handbooks",
+    "url": "https://pnwhandbooks.org/plantdisease/host-disease/grape-vitis-spp-esca-young-esca-petri-disease",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетського довідника; використано витяги з атрибуцією"
+   },
+   "vt_esca": {
+    "title": "Esca management",
+    "org": "Virginia Tech Grape Pathology Lab",
+    "url": "https://grapepathology.org/esca-management",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської лабораторії; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "grape__healthy": {
+  "label": "grape__healthy",
+  "name": {
+   "uk": "Ознак хвороби не виявлено",
+   "en": "No signs of disease"
+  },
+  "kind": "healthy",
+  "urgency": "none",
+  "summary": {
+   "uk": "На цьому знімку система не бачить ознак жодної з хвороб винограду, які вона вміє розпізнавати. Це не те саме, що «рослина здорова»: рання стадія багатьох хвороб на фото ще не видна, а частина уражень починається на нижньому боці листка або на тих листках, що не потрапили в кадр.",
+   "en": "In this photo the system sees no signs of any grape disease it can recognise. That is not the same as the plant being healthy: the early stage of many diseases is not yet visible in a photo, and some infections begin on the underside of leaves or on leaves outside the frame."
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Оглядати нижній бік листя: мілдью дає там білий пухнастий наліт, коли зверху видно лише світлу «олійну» пляму.",
+     "en": "Inspect the underside of the leaves: downy mildew produces a white downy growth there while only a pale oil spot shows from above."
+    },
+    "source": "msu_grape_h"
+   },
+   {
+    "text": {
+     "uk": "Перевіряти, чи не лишилось на кущі торішніх муміфікованих ягід — вони є головним джерелом чорної гнилі.",
+     "en": "Check whether last year's mummified berries are still on the vine — they are the main source of black rot."
+    },
+    "source": "msu_grape_h"
+   },
+   {
+    "text": {
+     "uk": "Оглядати зрізи й деревину: темні смуги на зрізі означають ураження стовбура, яке лікуванню не піддається.",
+     "en": "Inspect cuts and wood: dark streaking in a cut means trunk infection, which cannot be cured."
+    },
+    "source": "msu_grape_h"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Обрізка й підв'язка для провітрювання; піднімати зону грон від землі.",
+     "en": "Pruning and tying for ventilation; raise the fruiting zone off the ground."
+    },
+    "source": "msu_grape_h"
+   },
+   {
+    "text": {
+     "uk": "Захищати зрізи під час зимової обрізки — це єдиний дієвий захід проти хвороб деревини.",
+     "en": "Protect cuts during winter pruning — this is the only effective measure against trunk diseases."
+    },
+    "source": "msu_grape_h"
+   },
+   {
+    "text": {
+     "uk": "Критичний період захисту — від передцвітіння до двох-чотирьох тижнів після цвітіння.",
+     "en": "The critical protection window runs from pre-bloom to two to four weeks after bloom."
+    },
+    "source": "msu_grape_h"
+   }
+  ],
+  "sources": {
+   "msu_grape_h": {
+    "title": "Early season vineyard disease management",
+    "org": "Michigan State University Extension",
+    "url": "https://www.canr.msu.edu/news/early_season_vineyard_disease_management",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "grape__leaf_blight": {
+  "label": "grape__leaf_blight",
+  "name": {
+   "uk": "Плямистість листя",
+   "en": "Leaf blight"
+  },
+  "pathogen": {
+   "uk": "Pseudocercospora vitis",
+   "en": "Pseudocercospora vitis"
+  },
+  "kind": "focal",
+  "urgency": "low",
+  "summary": {
+   "uk": "Другорядна хвороба, що з'являється переважно наприкінці сезону й на погано доглянутих насадженнях. Врожаю поточного року здебільшого не загрожує, але передчасна втрата листя послаблює кущ перед зимівлею.",
+   "en": "A secondary disease that appears mainly late in the season and in poorly tended plantings. It rarely threatens the current year's crop, but premature leaf loss weakens the vine before winter."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Великі плями неправильної форми, спершу тьмяно-червоні або бурі, з віком чорніють і стають ламкими.",
+     "en": "Large irregular lesions, at first dull red or brown, turning black and brittle with age."
+    },
+    "quote": {
+     "en": "large, irregular shaped spots, which are initially dull red to brown in color but turn black and brittle with age"
+    },
+    "source": "invasive_org"
+   },
+   {
+    "text": {
+     "uk": "З'являється наприкінці вегетації; найчастіше там, де захист від основних хвороб вівся погано.",
+     "en": "It appears at the end of the growing season, most often where protection against the main diseases was poor."
+    },
+    "source": "invasive_org"
+   }
+  ],
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Підтримувати силу куща й провітрювання: обрізка, проріджування, відстань між кущами й боротьба з бур'янами прискорюють висихання листя.",
+     "en": "Maintain vine vigour and ventilation: pruning, thinning, spacing between vines and weed control all speed up leaf drying."
+    },
+    "source": "cafs"
+   },
+   {
+    "text": {
+     "uk": "Окремих обробок зазвичай не потрібно: захист від мілдью й оїдіуму на початку сезону стримує і цю хворобу.",
+     "en": "Separate sprays are usually unnecessary: early season protection against downy and powdery mildew also holds this disease back."
+    },
+    "source": "cafs"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Прибирати опале листя наприкінці сезону.",
+     "en": "Remove fallen leaves at the end of the season."
+    },
+    "source": "cafs"
+   }
+  ],
+  "sources": {
+   "invasive_org": {
+    "title": "Leaf blight, also called Isariopsis leaf spot (Pseudocercospora vitis) on Grape",
+    "org": "Invasive.org / University of Georgia",
+    "url": "https://www.invasive.org/collections/viewcollection.cfm?ser=72222",
+    "accessed": "2026-08-29",
+    "license": "довідковий ресурс університету Джорджії; використано витяги з атрибуцією"
+   },
+   "cafs": {
+    "title": "To do list for post-harvest vineyard management",
+    "org": "Florida A&M University, Center for Viticulture",
+    "url": "https://cafs.famu.edu/departments-and-centers/research/center-for-viticulture-and-small-fruit-research/pdf/Post-Harvest-Vineyard-Management-fact-sheet.pdf",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетського центру; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "grape__powdery_mildew": {
+  "label": "grape__powdery_mildew",
+  "name": {
+   "uk": "Оїдіум",
+   "en": "Powdery mildew"
+  },
+  "pathogen": {
+   "uk": "Erysiphe necator",
+   "en": "Erysiphe necator"
+  },
+  "kind": "focal",
+  "urgency": "high",
+  "summary": {
+   "uk": "Борошниста роса винограду. На відміну від мілдью, їй НЕ потрібен дощ — достатньо високої вологості повітря, тож вона розвивається й у сухі сезони. Уражені ягоди тріскаються, відкриваючи шлях гнилям.",
+   "en": "Powdery mildew of grape. Unlike downy mildew it does NOT need rain — high air humidity is enough, so it develops even in dry seasons. Affected berries crack, opening the way for rots."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Сірувато-білий борошнистий наліт на листках, пагонах і гронах, що лежить поверх тканини.",
+     "en": "A greyish white powdery growth on leaves, shoots and clusters, sitting on top of the tissue."
+    },
+    "source": "uc_ipm_pm"
+   },
+   {
+    "text": {
+     "uk": "Уражені молоді ягоди припиняють ріст і згодом тріскаються, через що до них заходять гнилі.",
+     "en": "Affected young berries stop growing and later crack, which lets rots in."
+    },
+    "source": "uc_ipm_pm"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 21,
+    "max": 29
+   },
+   "text": {
+    "uk": "Оптимум росту 21–29 °C. Температура вище 35 °C протягом 12 годин і довше сповільнює гриб — тобто спека його стримує, а не сприяє.",
+    "en": "Optimal growth is 21–29 °C. Temperatures above 35 °C for 12 hours or more slow the fungus down — heat holds it back rather than helping it."
+   },
+   "quote": {
+    "en": "Ideal temperatures for growth are between 70° and 85°F, while temperatures above 95°F for 12 continuous hours or longer cause the fungus to grow more slowly."
+   },
+   "source": "msu_grapes"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Освітлення зони грон: пряме сонце й рух повітря пригнічують оїдіум сильніше за більшість заходів.",
+     "en": "Exposing the fruiting zone: direct sun and air movement suppress powdery mildew more than most other measures."
+    },
+    "source": "uc_ipm_pm"
+   },
+   {
+    "text": {
+     "uk": "Критичний період — від передцвітіння до двох-чотирьох тижнів після цвітіння.",
+     "en": "The critical window runs from pre-bloom to two to four weeks after bloom."
+    },
+    "source": "msu_grapes"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Обрізка на провітрювання й уникання загущення — планується восени, а не в розпал сезону.",
+     "en": "Pruning for ventilation and avoiding overcrowding are planned in autumn, not at the height of the season."
+    },
+    "source": "uc_ipm_pm"
+   }
+  ],
+  "sources": {
+   "uc_ipm_pm": {
+    "title": "Powdery Mildew — UC IPM Pest Management Guidelines: Grape",
+    "org": "University of California Statewide IPM Program",
+    "url": "https://ipm.ucanr.edu/agriculture/grape/powdery-mildew/",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської програми IPM; використано витяги з атрибуцією"
+   },
+   "msu_grapes": {
+    "title": "Management of powdery mildew on grape clusters",
+    "org": "Michigan State University Extension",
+    "url": "https://www.canr.msu.edu/news/management_of_powdery_mildew_on_grape_clusters",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "not_a_plant": {
+  "label": "not_a_plant",
+  "name": {
+   "uk": "Не можу поставити діагноз",
+   "en": "Cannot make a diagnosis"
+  },
+  "kind": "advisory",
+  "urgency": "none",
+  "summary": {
+   "uk": "На фото або не рослина, або культура поза переліком підтримуваних. Розрізнити ці два випадки система не може: за наявними даними вони зливаються, і вигадувати впевненість тут вона не буде.",
+   "en": "The photo shows either no plant at all, or a crop outside the supported list. The system cannot tell these two cases apart: on the available data they overlap, and it will not invent confidence here."
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Перевірте, чи в кадрі саме листок, а не ґрунт, кора, рука або поверхня поруч із рослиною.",
+     "en": "Check that the frame really shows a leaf, not soil, bark, a hand or a surface next to the plant."
+    }
+   },
+   {
+    "text": {
+     "uk": "Наведіть різкість на листок і зніміть його зблизька — розфокусований зелений кадр найчастіше й потрапляє сюди.",
+     "en": "Focus on the leaf and shoot it close up — an out-of-focus green frame is what most often ends up here."
+    }
+   },
+   {
+    "text": {
+     "uk": "Переконайтесь, що це одна з підтримуваних культур: яблуня, виноград, картопля, кукурудза, огірок, перець, полуниця, томат.",
+     "en": "Make sure it is one of the supported crops: apple, grape, potato, maize, cucumber, pepper, strawberry, tomato."
+    }
+   }
+  ]
+ },
+ "not_calibrated": {
+  "label": "not_calibrated",
+  "name": {
+   "uk": "Культура ще не перевірена",
+   "en": "Crop not yet validated"
+  },
+  "kind": "advisory",
+  "urgency": "none",
+  "summary": {
+   "uk": "Для цієї культури немає даних, щоб виміряти надійність діагнозу. Система не відповідає, замість того щоб обіцяти точність, якої не перевіряла. Перезйомка не допоможе — річ не у знімку.",
+   "en": "There is no data for this crop to measure how reliable a diagnosis would be. The system withholds an answer rather than promise accuracy it has not verified. Retaking the photo will not help — the problem is not the photo."
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Модель цю культуру розпізнавати вміє, але наскільки добре — не виміряно. Показати діагноз без цього означало б видати здогад за перевірену відповідь.",
+     "en": "The model can recognise this crop, but how well has not been measured. Showing a diagnosis without that would mean passing a guess off as a verified answer."
+    }
+   },
+   {
+    "text": {
+     "uk": "Обмеження зникне, коли з'являться польові знімки цієї культури з відомим діагнозом, на яких можна підібрати поріг.",
+     "en": "The limitation will go away once there are field photos of this crop with a known diagnosis, on which a threshold can be set."
+    }
+   }
+  ]
+ },
+ "out_of_scope": {
+  "label": "out_of_scope",
+  "name": {
+   "uk": "Культура поза переліком",
+   "en": "Crop not supported"
+  },
+  "kind": "advisory",
+  "urgency": "none",
+  "summary": {
+   "uk": "Ця рослина не входить у перелік культур, яких система навчена. Діагноз для неї не ставиться свідомо: модель навчена на восьми культурах, і на будь-якій іншій її відповідь була б вигадкою, а не діагнозом.",
+   "en": "This plant is not among the crops the system was trained on. No diagnosis is given for it deliberately: the model was trained on eight crops, and on any other its answer would be invention rather than diagnosis."
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Підтримувані культури: яблуня, виноград, картопля, кукурудза, огірок, перець, полуниця, томат.",
+     "en": "Supported crops: apple, grape, potato, maize, cucumber, pepper, strawberry, tomato."
+    }
+   },
+   {
+    "text": {
+     "uk": "Якщо культура з переліку, а система її не впізнала — зніміть один листок зблизька на рівномірному тлі й повторіть.",
+     "en": "If the crop is on the list but the system did not recognise it, photograph a single leaf close up against an even background and try again."
+    }
+   }
+  ]
+ },
+ "pepper__bacterial_spot": {
+  "label": "pepper__bacterial_spot",
+  "name": {
+   "uk": "Бактеріальна плямистість",
+   "en": "Bacterial spot"
+  },
+  "pathogen": {
+   "uk": "Xanthomonas spp.",
+   "en": "Xanthomonas spp."
+  },
+  "kind": "focal",
+  "urgency": "high",
+  "summary": {
+   "uk": "Головна бактеріальна хвороба перцю, спільна з томатом. Фунгіциди на неї не діють. Розвивається швидко за теплої вологої погоди й заноситься найчастіше з насінням або розсадою.",
+   "en": "The main bacterial disease of pepper, shared with tomato. Fungicides do not work on it. It develops fast in warm wet weather and is most often introduced with seed or transplants."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Дрібні водянисті плями на листках, що темнішають і підсихають; часто з жовтим ореолом. Сильне ураження веде до масового опадання листя.",
+     "en": "Small water-soaked spots on the leaves that darken and dry out, often with a yellow halo. Heavy infection leads to mass leaf drop."
+    },
+    "source": "clemson"
+   },
+   {
+    "text": {
+     "uk": "На плодах — шорсткі струпоподібні плями, через які продукція втрачає товарність.",
+     "en": "On the fruit, rough scabby lesions that make the produce unmarketable."
+    },
+    "source": "clemson"
+   },
+   {
+    "text": {
+     "uk": "Розвивається значно швидше за грибкові плямистості: різке всихання за кілька днів — характерна ознака бактеріального ураження.",
+     "en": "It develops much faster than fungal leaf spots: rapid dieback within a few days is the characteristic sign of a bacterial infection."
+    },
+    "source": "uky_vg25"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 24,
+    "max": 32
+   },
+   "humidity_min": 85,
+   "text": {
+    "uk": "Тепла волога погода, дощі з вітром, полив дощуванням. Бактерії розносяться краплями води. Різке всихання за кілька днів характерне саме для бактеріального ураження.",
+    "en": "Warm wet weather, wind-driven rain, overhead irrigation. Bacteria spread in water droplets. Rapid dieback within a few days is characteristic of a bacterial infection."
+   },
+   "quote": {
+    "en": "bacterial spot typically progresses much faster than early blight, resulting in rapid dieback."
+   },
+   "source": "uky_vg25"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Не працювати в насадженні по мокрому листю: бактерії переносяться руками й інструментом разом із вологою.",
+     "en": "Do not work in the planting while the foliage is wet: bacteria travel on hands and tools together with the moisture."
+    },
+    "source": "clemson"
+   },
+   {
+    "text": {
+     "uk": "Полив під корінь замість дощування.",
+     "en": "Water at the root rather than overhead."
+    },
+    "source": "clemson"
+   },
+   {
+    "text": {
+     "uk": "Видаляти уражені рослини й знищувати рештки після збирання.",
+     "en": "Remove affected plants and destroy residues after harvest."
+    },
+    "source": "clemson"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Перевірене насіння й здорова розсада — основний шлях занесення саме через садивний матеріал.",
+     "en": "Tested seed and healthy transplants — planting material is the main route of introduction."
+    },
+    "source": "clemson"
+   },
+   {
+    "text": {
+     "uk": "Сівозміна з відходом від пасльонових щонайменше на рік.",
+     "en": "Crop rotation away from solanaceous crops for at least a year."
+    },
+    "source": "clemson"
+   }
+  ],
+  "sources": {
+   "clemson": {
+    "title": "Tomato Diseases & Disorders",
+    "org": "Clemson Cooperative Extension",
+    "url": "https://hgic.clemson.edu/factsheet/tomato-diseases-disorders/",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "uky_vg25": {
+    "title": "Early Blight and Septoria Leaf Spot of Tomato (PPFS-VG-25)",
+    "org": "University of Kentucky Cooperative Extension",
+    "url": "https://plantpathology.ca.uky.edu/files/ppfs-vg-25.pdf",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "pepper__healthy": {
+  "label": "pepper__healthy",
+  "name": {
+   "uk": "Ознак хвороби не виявлено",
+   "en": "No signs of disease"
+  },
+  "kind": "healthy",
+  "urgency": "none",
+  "summary": {
+   "uk": "На цьому знімку система не бачить ознак жодної з хвороб перцю, які вона вміє розпізнавати. Це не те саме, що «рослина здорова»: рання стадія багатьох хвороб на фото ще не видна, а частина уражень починається на нижньому боці листка або на тих листках, що не потрапили в кадр.",
+   "en": "In this photo the system sees no signs of any pepper disease it can recognise. That is not the same as the plant being healthy: the early stage of many diseases is not yet visible in a photo, and some infections begin on the underside of leaves or on leaves outside the frame."
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Оглядати листя після дощів із вітром: бактеріальна плямистість розноситься краплями й розвивається за кілька днів.",
+     "en": "Inspect the foliage after wind-driven rain: bacterial spot spreads in droplets and develops within a few days."
+    },
+    "source": "clemson_h"
+   },
+   {
+    "text": {
+     "uk": "Звертати увагу на темп: різке всихання за кілька днів характерне саме для бактеріального ураження.",
+     "en": "Watch the pace: rapid dieback within a few days is characteristic of a bacterial infection."
+    },
+    "source": "clemson_h"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Не працювати в насадженні по мокрому листю.",
+     "en": "Do not work in the planting while the foliage is wet."
+    },
+    "source": "clemson_h"
+   },
+   {
+    "text": {
+     "uk": "Полив під корінь замість дощування.",
+     "en": "Water at the root rather than overhead."
+    },
+    "source": "clemson_h"
+   },
+   {
+    "text": {
+     "uk": "Перевірене насіння й здорова розсада — основний шлях занесення.",
+     "en": "Tested seed and healthy transplants — the main route of introduction."
+    },
+    "source": "clemson_h"
+   }
+  ],
+  "sources": {
+   "clemson_h": {
+    "title": "Tomato Diseases & Disorders",
+    "org": "Clemson Cooperative Extension",
+    "url": "https://hgic.clemson.edu/factsheet/tomato-diseases-disorders/",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "potato__early_blight": {
+  "label": "potato__early_blight",
+  "name": {
+   "uk": "Альтернаріоз",
+   "en": "Early blight"
+  },
+  "pathogen": {
+   "uk": "Alternaria solani",
+   "en": "Alternaria solani"
+  },
+  "kind": "focal",
+  "urgency": "medium",
+  "summary": {
+   "uk": "Та сама хвороба, що й на томаті, — збудник спільний, тож насадження заражають одне одного. Впізнається за концентричними кільцями в плямі («мішень»). Уражує не лише листя: на бульбах дає буру корковисту суху гниль.",
+   "en": "The same disease as on tomato — the pathogen is shared, so the two crops infect each other. Recognised by concentric rings inside the lesion, a target pattern. It affects more than leaves: on tubers it causes a brown corky dry rot."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Найхарактерніша ознака — візерунок «бичаче око» в плямах на листках і стеблах: концентричні кільця всередині ураження.",
+     "en": "The most characteristic sign is a bull's eye pattern in lesions on leaves and stems: concentric rings inside the affected area."
+    },
+    "quote": {
+     "en": "Early blight's most characteristic symptom is the bulls-eye pattern of disease lesions on leaves and stems"
+    },
+    "source": "umn_early_blight"
+   },
+   {
+    "text": {
+     "uk": "Уражені бульби мають буру корковисту суху гниль.",
+     "en": "Infected tubers show a brown corky dry rot."
+    },
+    "source": "umn_early_blight"
+   },
+   {
+    "text": {
+     "uk": "Починається з нижніх, старших листків і піднімається вгору.",
+     "en": "It starts on the lower, older leaves and moves upward."
+    },
+    "source": "umn_early_blight"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 24,
+    "max": 32
+   },
+   "leaf_wetness_hours_min": 5,
+   "text": {
+    "uk": "Ті самі умови, що на томаті — збудник спільний: тепло вище 24 °C і тривале зволоження листя від 5 годин. Ослаблені рослини уражуються сильніше, тож живлення й рівномірний полив тут працюють як захист.",
+    "en": "The same conditions as on tomato, since the pathogen is shared: warmth above 24 °C and prolonged leaf wetness from 5 hours. Weakened plants are hit harder, so feeding and even watering act as protection here."
+   },
+   "quote": {
+    "en": "High humidity and temperatures above 75°F favor disease development for early blight ... Germinated conidia infect tissues if foliage remains wet for another 5 to 10 hours, depending on the temperature."
+   },
+   "source": "uconn_eb"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Тримати рослини в доброму стані: стресовані більш схильні до альтернаріозу.",
+     "en": "Keep plants in good condition: stressed ones are more prone to early blight."
+    },
+    "source": "umn_early_blight"
+   },
+   {
+    "text": {
+     "uk": "Знищувати рештки після збирання: гриб зимує в рештках на полі, у ґрунті, на бульбах і на інших пасльонових.",
+     "en": "Destroy residues after harvest: the fungus overwinters in field debris, in the soil, on tubers and on other solanaceous plants."
+    },
+    "source": "umn_early_blight"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Сівозміна й видалення самосіву картоплі.",
+     "en": "Crop rotation and removal of volunteer potatoes."
+    },
+    "source": "umn_early_blight"
+   }
+  ],
+  "sources": {
+   "umn_early_blight": {
+    "title": "Early blight in tomato and potato",
+    "org": "University of Minnesota Extension",
+    "url": "https://extension.umn.edu/disease-management/early-blight-tomato-and-potato",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "uconn_eb": {
+    "title": "Early Blight Management in Fresh Market Tomatoes",
+    "org": "University of Connecticut IPM",
+    "url": "https://ipm.cahnr.uconn.edu/early-blight-management-in-fresh-market-tomatoes/",
+    "accessed": "2026-09-07",
+    "license": "матеріал служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "potato__healthy": {
+  "label": "potato__healthy",
+  "name": {
+   "uk": "Ознак хвороби не виявлено",
+   "en": "No signs of disease"
+  },
+  "kind": "healthy",
+  "urgency": "none",
+  "summary": {
+   "uk": "На цьому знімку система не бачить ознак жодної з хвороб картоплі, які вона вміє розпізнавати. Це не те саме, що «рослина здорова»: рання стадія багатьох хвороб на фото ще не видна, а частина уражень починається на нижньому боці листка або на тих листках, що не потрапили в кадр.",
+   "en": "In this photo the system sees no signs of any potato disease it can recognise. That is not the same as the plant being healthy: the early stage of many diseases is not yet visible in a photo, and some infections begin on the underside of leaves or on leaves outside the frame."
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Оглядати нижній ярус куща: і фітофтороз, і альтернаріоз починаються зі старших нижніх листків.",
+     "en": "Inspect the lower part of the plant: both late blight and early blight start on the older lower leaves."
+    },
+    "source": "umn_potato"
+   },
+   {
+    "text": {
+     "uk": "Після затяжних дощів і туманів оглядати насадження частіше — фітофторозу для зараження вистачає годин.",
+     "en": "After prolonged rain and fog, inspect the planting more often — late blight needs only hours to infect."
+    },
+    "source": "umn_potato"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Підгортання й знищення бадилля щонайменше за два тижні до збирання — головний захід проти зараження бульб.",
+     "en": "Hilling up and killing the haulm at least two weeks before harvest is the main measure against tuber infection."
+    },
+    "source": "umn_potato"
+   },
+   {
+    "text": {
+     "uk": "Сівозміна й знищення самосіву картоплі.",
+     "en": "Crop rotation and destruction of volunteer potatoes."
+    },
+    "source": "umn_potato"
+   },
+   {
+    "text": {
+     "uk": "Здоровий садивний матеріал: саме він найчастіше є джерелом зараження.",
+     "en": "Healthy seed material: it is most often the source of infection."
+    },
+    "source": "umn_potato"
+   }
+  ],
+  "sources": {
+   "umn_potato": {
+    "title": "Late blight of tomato and potato",
+    "org": "University of Minnesota Extension",
+    "url": "https://extension.umn.edu/disease-management/late-blight",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "potato__late_blight": {
+  "label": "potato__late_blight",
+  "name": {
+   "uk": "Фітофтороз",
+   "en": "Late blight"
+  },
+  "pathogen": {
+   "uk": "Phytophthora infestans",
+   "en": "Phytophthora infestans"
+  },
+  "kind": "focal",
+  "urgency": "high",
+  "summary": {
+   "uk": "Найнебезпечніша хвороба картоплі. Та сама, що на томаті, — насадження заражають одне одного. Крім листя, уражує бульби, і саме через бульби хвороба переходить у наступний сезон і в сховище.",
+   "en": "The most dangerous disease of potato. The same one as on tomato — the two crops infect each other. Besides leaves it affects tubers, and it is through tubers that the disease carries into the next season and into storage."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "На листках великі бурі плями із сіро-зеленим краєм — на відміну від альтернаріозу, кілець усередині немає.",
+     "en": "Large brown blotches with a grey green margin on the leaves — unlike early blight, there are no rings inside."
+    },
+    "quote": {
+     "en": "late blight leaf infections are large brown blotches with a green-gray edge"
+    },
+    "source": "umn_late_blight"
+   },
+   {
+    "text": {
+     "uk": "За вологої погоди на нижньому боці листка по краю плям видно білий наліт спороношення.",
+     "en": "In wet weather a white sporulating growth is visible on the underside of the leaf along the edge of the lesions."
+    },
+    "source": "uconn_potato"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 10,
+    "max": 24
+   },
+   "humidity_min": 90,
+   "text": {
+    "uk": "Прохолодна волога погода: тумани, роси, затяжні дощі. За таких умов зараження займає години.",
+    "en": "Cool wet weather: fog, dew, prolonged rain. Under such conditions infection takes hours."
+   },
+   "quote": {
+    "en": "High humidity and average temperatures in the range of 50 to 78°F favor the disease."
+   },
+   "source": "uc_ipm_lb"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Підгортати кущі, а перед збиранням знищити бадилля щонайменше за два тижні: це головний захід проти зараження бульб.",
+     "en": "Hill up the plants, and kill the haulm at least two weeks before harvest: this is the main measure against tuber infection."
+    },
+    "quote": {
+     "en": "Hill up around the base of vines, then kill the vines at least two weeks before harvest to reduce the danger of tuber infection"
+    },
+    "source": "umn_late_blight"
+   },
+   {
+    "text": {
+     "uk": "Знищувати самосів картоплі — він є містком для хвороби між сезонами.",
+     "en": "Destroy volunteer potatoes — they bridge the disease between seasons."
+    },
+    "source": "umn_late_blight"
+   },
+   {
+    "text": {
+     "uk": "Уникати дощування й забезпечити провітрювання рядів.",
+     "en": "Avoid overhead irrigation and keep the rows ventilated."
+    },
+    "source": "uconn_potato"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Використовувати здоровий, вільний від хвороби садивний матеріал — джерело зараження найчастіше саме він.",
+     "en": "Use healthy, disease-free seed material — it is most often the source of infection."
+    },
+    "source": "umn_late_blight"
+   },
+   {
+    "text": {
+     "uk": "Стійкі сорти та моніторинг насаджень у вологі періоди.",
+     "en": "Resistant cultivars and monitoring of the planting during wet spells."
+    },
+    "source": "umn_late_blight"
+   }
+  ],
+  "sources": {
+   "umn_late_blight": {
+    "title": "Late blight of tomato and potato",
+    "org": "University of Minnesota Extension",
+    "url": "https://extension.umn.edu/disease-management/late-blight",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "uconn_potato": {
+    "title": "Early Blight and Late Blight of Potato",
+    "org": "University of Connecticut IPM",
+    "url": "https://ipm.cahnr.uconn.edu/early-blight-and-late-blight-of-potato/",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської програми IPM; використано витяги з атрибуцією"
+   },
+   "uc_ipm_lb": {
+    "title": "Late Blight — UC IPM Pest Management Guidelines",
+    "org": "University of California Statewide IPM Program",
+    "url": "https://ipm.ucanr.edu/PMG/GARDEN/VEGES/DISEASES/lateblight.html",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської програми IPM; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "shortlist_notice": {
+  "label": "shortlist_notice",
+  "name": {
+   "uk": "Чому кілька варіантів",
+   "en": "Why several options"
+  },
+  "kind": "advisory",
+  "urgency": "none",
+  "summary": {
+   "uk": "Для деяких культур один надійний діагноз за фотографією недосяжний: різні хвороби дають надто схожу картину на листку. Замість того щоб назвати один варіант і промовчати про сумнів, система показує кілька найімовірніших.",
+   "en": "For some crops a single reliable diagnosis from a photo is out of reach: different diseases look too similar on the leaf. Rather than name one option and stay silent about the doubt, the system shows several of the most likely."
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Звуження з десяти можливих станів до трьох — це результат, а не відмова. Далі вибір робиться за ознаками, яких на фото не видно.",
+     "en": "Narrowing ten possible conditions down to three is a result, not a refusal. The remaining choice is made on signs that a photo does not show."
+    }
+   },
+   {
+    "text": {
+     "uk": "Що допомагає звузити далі: чи почалося ураження з нижніх листків; чи є наліт на нижньому боці; як швидко хвороба поширюється; яка була погода останнього тижня.",
+     "en": "What helps narrow it further: whether the damage started on the lower leaves; whether there is growth on the underside; how fast the disease is spreading; what the weather has been over the past week."
+    }
+   },
+   {
+    "text": {
+     "uk": "Якщо рішення дороге — обробка великої площі або викорчовування, — варто показати рослину агроному. Система не замінює фахівця.",
+     "en": "If the decision is expensive — spraying a large area or grubbing out plants — show the plant to an agronomist. The system does not replace a specialist."
+    }
+   }
+  ]
+ },
+ "strawberry__angular_leaf_spot": {
+  "label": "strawberry__angular_leaf_spot",
+  "name": {
+   "uk": "Кутаста плямистість",
+   "en": "Angular leaf spot"
+  },
+  "pathogen": {
+   "uk": "Xanthomonas fragariae",
+   "en": "Xanthomonas fragariae"
+  },
+  "kind": "focal",
+  "urgency": "high",
+  "summary": {
+   "uk": "Єдина бактеріальна хвороба полуниці в переліку — фунгіциди на неї не діють. Має унікальну діагностичну ознаку: якщо подивитися на листок ПРОТИ СВІТЛА, плями просвічуються, наче маленькі віконця.",
+   "en": "The only bacterial disease of strawberry on the list — fungicides do not work on it. It has a unique diagnostic sign: hold the leaf UP TO THE LIGHT and the lesions become translucent, like small windows."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Спершу дрібні водянисті ділянки на листку.",
+     "en": "At first, small water-soaked areas on the leaf."
+    },
+    "source": "ncsu_straw"
+   },
+   {
+    "text": {
+     "uk": "Плями виразно кутасті й ПРОСВІЧУЮТЬСЯ, якщо листок піднести до світла, — виглядають як маленькі віконця. Грибкові плями округліші й не просвічуються. Це найнадійніша відмінність.",
+     "en": "The lesions are distinctly angular and TRANSLUCENT when the leaf is held up to the light, looking like small windows. Fungal spots are rounder and not translucent. This is the most reliable difference."
+    },
+    "quote": {
+     "en": "Angular leaf spot lesions are distinctly angular and translucent when the leaf is held up against light, looking like small \"windows,\" whereas fungal spots are more rounded and not translucent."
+    },
+    "source": "msu_als"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 10,
+    "max": 20
+   },
+   "humidity_min": 90,
+   "text": {
+    "uk": "Прохолодна волога погода 10–20 °C, роси й дощування. Бактерії розносяться краплями води, тож кожен полив по листю — новий цикл поширення.",
+    "en": "Cool wet weather at 10–20 °C, dew and overhead irrigation. Bacteria spread in water droplets, so every overhead watering is a new cycle of spread."
+   },
+   "quote": {
+    "en": "Angular leaf spot is a bacterial disease with early symptoms on the leaves being tiny, water-soaked areas."
+   },
+   "source": "msu_als"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Не працювати на плантації по мокрому листю: бактерії переносяться руками й інструментом.",
+     "en": "Do not work in the planting while the foliage is wet: bacteria travel on hands and tools."
+    },
+    "source": "msu_als"
+   },
+   {
+    "text": {
+     "uk": "Полив під корінь замість дощування.",
+     "en": "Water at the root rather than overhead."
+    },
+    "source": "msu_als"
+   },
+   {
+    "text": {
+     "uk": "Видаляти й знищувати уражене листя.",
+     "en": "Remove and destroy affected leaves."
+    },
+    "source": "cornell_straw"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Здорова, перевірена розсада — основний шлях занесення саме через садивний матеріал.",
+     "en": "Healthy, tested runners — planting material is the main route of introduction."
+    },
+    "source": "msu_als"
+   }
+  ],
+  "sources": {
+   "ncsu_straw": {
+    "title": "Common Leafspot of Strawberry",
+    "org": "NC State Extension",
+    "url": "https://content.ces.ncsu.edu/common-leafspot-of-strawberry",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "msu_als": {
+    "title": "Angular leaf spot causing leaf necrosis in strawberries",
+    "org": "Michigan State University Extension",
+    "url": "https://www.canr.msu.edu/news/angular_leaf_spot_causing_leaf_necrosis_in_strawberries",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "cornell_straw": {
+    "title": "Strawberry Leaf Diseases — Identification and Management",
+    "org": "Cornell University",
+    "url": "https://cpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/0/7265/files/2017/01/strleafdisidmgmt-yjcu5n.pdf",
+    "accessed": "2026-08-29",
+    "license": "матеріал університету; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "strawberry__healthy": {
+  "label": "strawberry__healthy",
+  "name": {
+   "uk": "Ознак хвороби не виявлено",
+   "en": "No signs of disease"
+  },
+  "kind": "healthy",
+  "urgency": "none",
+  "summary": {
+   "uk": "На цьому знімку система не бачить ознак жодної з хвороб полуниці, які вона вміє розпізнавати. Це не те саме, що «рослина здорова»: рання стадія багатьох хвороб на фото ще не видна, а частина уражень починається на нижньому боці листка або на тих листках, що не потрапили в кадр.",
+   "en": "In this photo the system sees no signs of any strawberry disease it can recognise. That is not the same as the plant being healthy: the early stage of many diseases is not yet visible in a photo, and some infections begin on the underside of leaves or on leaves outside the frame."
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Оглядати нижній бік листя — борошниста роса з'являється там; ранньою ознакою є закручені догори краї листка.",
+     "en": "Inspect the underside of the leaves — powdery mildew appears there; an early sign is leaf edges curling upward."
+    },
+    "source": "cornell_h"
+   },
+   {
+    "text": {
+     "uk": "Дивитися на листок проти світла: якщо плями просвічуються, це бактеріальна кутаста плямистість, проти якої фунгіциди не діють.",
+     "en": "Hold the leaf up to the light: if the lesions are translucent, this is bacterial angular leaf spot, against which fungicides do not work."
+    },
+    "source": "cornell_h"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Видаляти й знищувати відмерле листя при оновленні плантації після збирання.",
+     "en": "Remove and destroy dead foliage when renovating the planting after harvest."
+    },
+    "source": "cornell_h"
+   },
+   {
+    "text": {
+     "uk": "Полив під корінь замість дощування; проріджування для провітрювання.",
+     "en": "Water at the root rather than overhead; thin the planting for ventilation."
+    },
+    "source": "cornell_h"
+   },
+   {
+    "text": {
+     "uk": "Здорова перевірена розсада при закладанні нової плантації.",
+     "en": "Healthy tested runners when establishing a new planting."
+    },
+    "source": "cornell_h"
+   }
+  ],
+  "sources": {
+   "cornell_h": {
+    "title": "Strawberry Leaf Diseases — Identification and Management",
+    "org": "Cornell University",
+    "url": "https://cpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/0/7265/files/2017/01/strleafdisidmgmt-yjcu5n.pdf",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "strawberry__leaf_scorch": {
+  "label": "strawberry__leaf_scorch",
+  "name": {
+   "uk": "Опік листя",
+   "en": "Leaf scorch"
+  },
+  "pathogen": {
+   "uk": "Diplocarpon earliana",
+   "en": "Diplocarpon earliana"
+  },
+  "kind": "focal",
+  "urgency": "medium",
+  "summary": {
+   "uk": "Схожа на білу плямистість, але БЕЗ світлого центру: плями лишаються темними й зливаються, через що листок виглядає обпаленим. Ця пара — типове місце сплутування навіть для людини.",
+   "en": "Similar to common leaf spot but WITHOUT the pale centre: the lesions stay dark and merge, so the leaf looks scorched. This pair is a typical point of confusion even for a person."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Численні дрібні неправильні пурпурові плями, центр яких згодом буріє — але світлого центру, як у білої плямистості, не утворюється.",
+     "en": "Numerous small irregular purple spots whose centres later turn brown — but no pale centre forms, unlike common leaf spot."
+    },
+    "source": "ncsu_straw"
+   },
+   {
+    "text": {
+     "uk": "Листя врешті буріє, підсихає й закручується по краях, набуваючи обпаленого вигляду — звідси назва.",
+     "en": "The leaves eventually turn brown, dry out and curl at the margins, taking on a scorched look — hence the name."
+    },
+    "source": "ncsu_straw"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 18,
+    "max": 24
+   },
+   "leaf_wetness_hours_min": 12,
+   "text": {
+    "uk": "Умови ті самі, що для білої плямистості: тривале зволоження листя від 12 годин за 18–24 °C. Саме через збіг умов ці дві хвороби часто присутні разом і плутаються.",
+    "en": "The same conditions as for common leaf spot: prolonged leaf wetness from 12 hours at 18–24 °C. It is this overlap in conditions that makes the two diseases often occur together and be confused."
+   },
+   "quote": {
+    "en": "Only young leaf tissue is susceptible to infection and then, only after a minimum of 12 hours of leaf wetness"
+   },
+   "source": "pnw_straw"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Видаляти відмерле листя при оновленні плантації після збирання.",
+     "en": "Remove dead foliage when renovating the planting after harvest."
+    },
+    "source": "cornell_straw"
+   },
+   {
+    "text": {
+     "uk": "Проріджувати посадки й уникати дощування.",
+     "en": "Thin the planting and avoid overhead irrigation."
+    },
+    "source": "cornell_straw"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Стійкі сорти; не закладати нову плантацію поруч зі старою ураженою.",
+     "en": "Resistant cultivars; do not establish a new planting next to an old infected one."
+    },
+    "source": "cornell_straw"
+   }
+  ],
+  "sources": {
+   "cornell_straw": {
+    "title": "Strawberry Leaf Diseases — Identification and Management",
+    "org": "Cornell University",
+    "url": "https://cpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/0/7265/files/2017/01/strleafdisidmgmt-yjcu5n.pdf",
+    "accessed": "2026-08-29",
+    "license": "матеріал університету; використано витяги з атрибуцією"
+   },
+   "ncsu_straw": {
+    "title": "Common Leafspot of Strawberry",
+    "org": "NC State Extension",
+    "url": "https://content.ces.ncsu.edu/common-leafspot-of-strawberry",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "pnw_straw": {
+    "title": "Strawberry (Fragaria spp.) — Common Leaf Spot",
+    "org": "Pacific Northwest Pest Management Handbooks",
+    "url": "https://pnwhandbooks.org/plantdisease/host-disease/strawberry-fragaria-spp-common-leaf-spot",
+    "accessed": "2026-09-07",
+    "license": "матеріал служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "strawberry__leaf_spot": {
+  "label": "strawberry__leaf_spot",
+  "name": {
+   "uk": "Біла плямистість",
+   "en": "Common leaf spot"
+  },
+  "pathogen": {
+   "uk": "Mycosphaerella fragariae",
+   "en": "Mycosphaerella fragariae"
+  },
+  "kind": "focal",
+  "urgency": "medium",
+  "summary": {
+   "uk": "Найпоширеніша плямистість полуниці. Впізнається за плямою зі СВІТЛИМ центром і чіткою червоно-пурпуровою облямівкою — саме світлий центр відрізняє її від опіку листя.",
+   "en": "The most common leaf spot of strawberry. Recognised by a lesion with a PALE centre and a distinct red purple border — the pale centre is what distinguishes it from leaf scorch."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Спершу круглі темно-пурпурові плями, які збільшуються й набувають сірувато-білого центру на старих листках і світло-бурого на молодих.",
+     "en": "At first round dark purple spots that enlarge and develop a greyish white centre on older leaves and light brown on young ones."
+    },
+    "source": "ncsu_straw"
+   },
+   {
+    "text": {
+     "uk": "Кожну пляму оточує чітка червонувато-пурпурова або іржаво-бура облямівка.",
+     "en": "Each spot is ringed by a distinct reddish purple or rusty brown border."
+    },
+    "source": "ncsu_straw"
+   },
+   {
+    "text": {
+     "uk": "Спори розносяться бризками дощу, і на початку літа їх утворюється найбільше — на обох боках листка.",
+     "en": "Spores are spread by rain splash, and most are produced in early summer — on both sides of the leaf."
+    },
+    "source": "ncsu_straw"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 18,
+    "max": 24
+   },
+   "leaf_wetness_hours_min": 12,
+   "text": {
+    "uk": "Уражається лише молода тканина листка, і тільки після щонайменше 12 годин зволоження. Оптимум 18–24 °C; найбільше сприяють тривалі вологі періоди на кілька днів.",
+    "en": "Only young leaf tissue is susceptible, and only after at least 12 hours of wetness. The optimum is 18–24 °C; long wet spells lasting several days favour it most."
+   },
+   "quote": {
+    "en": "Only young leaf tissue is susceptible to infection and then, only after a minimum of 12 hours of leaf wetness ... temperatures between 65 and 75°F (18 to 24°C) are optimal for the growth of fungus and for lesion development."
+   },
+   "source": "pnw_straw"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Видаляти й знищувати відмерле листя під час оновлення плантації після збирання — це головний захід.",
+     "en": "Remove and destroy dead foliage when renovating the planting after harvest — this is the main measure."
+    },
+    "source": "cornell_straw"
+   },
+   {
+    "text": {
+     "uk": "Полив під корінь, не дощуванням; проріджування для провітрювання.",
+     "en": "Water at the root, not overhead; thin the planting for ventilation."
+    },
+    "source": "cornell_straw"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Обирати сорти, стійкі або толерантні до плямистостей листя.",
+     "en": "Choose cultivars resistant or tolerant to leaf spot diseases."
+    },
+    "source": "cornell_straw"
+   }
+  ],
+  "sources": {
+   "cornell_straw": {
+    "title": "Strawberry Leaf Diseases — Identification and Management",
+    "org": "Cornell University",
+    "url": "https://cpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/0/7265/files/2017/01/strleafdisidmgmt-yjcu5n.pdf",
+    "accessed": "2026-08-29",
+    "license": "матеріал університету; використано витяги з атрибуцією"
+   },
+   "ncsu_straw": {
+    "title": "Common Leafspot of Strawberry",
+    "org": "NC State Extension",
+    "url": "https://content.ces.ncsu.edu/common-leafspot-of-strawberry",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "pnw_straw": {
+    "title": "Strawberry (Fragaria spp.) — Common Leaf Spot",
+    "org": "Pacific Northwest Pest Management Handbooks",
+    "url": "https://pnwhandbooks.org/plantdisease/host-disease/strawberry-fragaria-spp-common-leaf-spot",
+    "accessed": "2026-09-07",
+    "license": "матеріал служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "strawberry__powdery_mildew": {
+  "label": "strawberry__powdery_mildew",
+  "name": {
+   "uk": "Борошниста роса",
+   "en": "Powdery mildew"
+  },
+  "pathogen": {
+   "uk": "Sphaerotheca macularis",
+   "en": "Sphaerotheca macularis"
+  },
+  "kind": "focal",
+  "urgency": "medium",
+  "summary": {
+   "uk": "Впізнається за характерним ЗАКРУЧУВАННЯМ країв листка ДОГОРИ — часто це помітно раніше за сам наліт. Наліт з'являється з нижнього боку, тож оглядати треба саме його.",
+   "en": "Recognised by the characteristic UPWARD CURLING of leaf edges — often noticeable before the growth itself. The growth appears on the underside, so that is what to inspect."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Білий борошнистий наліт на НИЖНЬОМУ боці листка, через що краї листка закручуються догори.",
+     "en": "A white powdery growth on the LOWER leaf surface, which makes the leaf edges curl upward."
+    },
+    "quote": {
+     "en": "Symptoms include white powdery growth on the lower leaf surface, causing the leaf edges to roll upward."
+    },
+    "source": "ncsu_straw"
+   },
+   {
+    "text": {
+     "uk": "Закручені догори краї листка часто помітні здалеку раніше, ніж сам наліт, — це зручна рання ознака.",
+     "en": "Upward curled leaf edges are often visible from a distance before the growth itself — a convenient early sign."
+    },
+    "source": "cornell_straw"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 16,
+    "max": 27
+   },
+   "text": {
+    "uk": "Помірна або висока вологість повітря за температури 16–27 °C. Крапельна волога, на відміну від плямистостей, не потрібна.",
+    "en": "Moderate to high air humidity at 16–27 °C. Unlike leaf spots, free moisture is not required."
+   },
+   "quote": {
+    "en": "Disease develops best under conditions of moderate to high humidity and warm temperatures (60 to 80°F)."
+   },
+   "source": "ncsu_straw"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Проріджування посадок і провітрювання; у тунелях — зниження вологості повітря.",
+     "en": "Thinning the planting and ventilation; in tunnels, lowering the air humidity."
+    },
+    "source": "cornell_straw"
+   },
+   {
+    "text": {
+     "uk": "Видаляти уражене листя при оновленні плантації.",
+     "en": "Remove affected foliage when renovating the planting."
+    },
+    "source": "cornell_straw"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Стійкі сорти; уникати загущення при закладанні плантації.",
+     "en": "Resistant cultivars; avoid overcrowding when establishing the planting."
+    },
+    "source": "cornell_straw"
+   }
+  ],
+  "sources": {
+   "cornell_straw": {
+    "title": "Strawberry Leaf Diseases — Identification and Management",
+    "org": "Cornell University",
+    "url": "https://cpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/0/7265/files/2017/01/strleafdisidmgmt-yjcu5n.pdf",
+    "accessed": "2026-08-29",
+    "license": "матеріал університету; використано витяги з атрибуцією"
+   },
+   "ncsu_straw": {
+    "title": "Common Leafspot of Strawberry",
+    "org": "NC State Extension",
+    "url": "https://content.ces.ncsu.edu/common-leafspot-of-strawberry",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "tomato__bacterial_spot": {
+  "label": "tomato__bacterial_spot",
+  "name": {
+   "uk": "Бактеріальна плямистість",
+   "en": "Bacterial spot"
+  },
+  "pathogen": {
+   "uk": "Xanthomonas spp.",
+   "en": "Xanthomonas spp."
+  },
+  "kind": "focal",
+  "urgency": "high",
+  "summary": {
+   "uk": "Бактеріальне захворювання, яке розвивається значно швидше за грибкові й може за короткий час знищити листя. Фунгіциди проти нього не діють — потрібні мідьвмісні препарати й, головне, здоровий садивний матеріал.",
+   "en": "A bacterial disease that develops far faster than fungal ones and can destroy the foliage in a short time. Fungicides do not work against it — copper-based products are needed and, above all, healthy planting material."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Дрібні темні плями на листках, часто з жовтим ореолом; на ранній стадії їх важко відрізнити від альтернаріозу.",
+     "en": "Small dark spots on the leaves, often with a yellow halo; at an early stage they are hard to tell from early blight."
+    },
+    "source": "uky_vg25"
+   },
+   {
+    "text": {
+     "uk": "Головна відмінність — темп: бактеріальна плямистість прогресує набагато швидше за альтернаріоз і призводить до різкого всихання.",
+     "en": "The main difference is pace: bacterial spot progresses much faster than early blight and leads to rapid dieback."
+    },
+    "quote": {
+     "en": "bacterial spot typically progresses much faster than early blight, resulting in rapid dieback."
+    },
+    "source": "uky_vg25"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 24,
+    "max": 32
+   },
+   "humidity_min": 85,
+   "text": {
+    "uk": "Тепла волога погода, дощі з вітром і полив дощуванням. Бактерії розносяться краплями, тож кожен дощ — новий цикл поширення, і розвивається все це швидше за грибкові плямистості.",
+    "en": "Warm wet weather, wind-driven rain and overhead irrigation. Bacteria spread in droplets, so every rain is a new cycle of spread, and all of it moves faster than fungal leaf spots."
+   },
+   "quote": {
+    "en": "bacterial spot typically progresses much faster than early blight, resulting in rapid dieback."
+   },
+   "source": "uky_vg25"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Не працювати в насадженні, коли листя мокре: бактерії переносяться руками й інструментом разом із вологою.",
+     "en": "Do not work in the planting while the foliage is wet: bacteria travel on hands and tools together with the moisture."
+    },
+    "source": "clemson"
+   },
+   {
+    "text": {
+     "uk": "Полив під корінь замість дощування.",
+     "en": "Water at the root rather than overhead."
+    },
+    "source": "clemson"
+   },
+   {
+    "text": {
+     "uk": "Видаляти уражені рослини й знищувати рештки — збудник зберігається в них і в насінні.",
+     "en": "Remove affected plants and destroy residues — the pathogen survives in them and in seed."
+    },
+    "source": "clemson"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Здорове перевірене насіння й розсада — основний шлях занесення саме через садивний матеріал.",
+     "en": "Healthy tested seed and transplants — planting material is the main route of introduction."
+    },
+    "source": "clemson"
+   },
+   {
+    "text": {
+     "uk": "Сівозміна з відходом від пасльонових щонайменше на рік.",
+     "en": "Crop rotation away from solanaceous crops for at least a year."
+    },
+    "source": "clemson"
+   }
+  ],
+  "sources": {
+   "uky_vg25": {
+    "title": "Early Blight and Septoria Leaf Spot of Tomato (PPFS-VG-25)",
+    "org": "University of Kentucky Cooperative Extension",
+    "url": "https://plantpathology.ca.uky.edu/files/ppfs-vg-25.pdf",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "clemson": {
+    "title": "Tomato Diseases & Disorders",
+    "org": "Clemson Cooperative Extension",
+    "url": "https://hgic.clemson.edu/factsheet/tomato-diseases-disorders/",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "tomato__early_blight": {
+  "label": "tomato__early_blight",
+  "name": {
+   "uk": "Альтернаріоз",
+   "en": "Early blight"
+  },
+  "pathogen": {
+   "uk": "Alternaria solani",
+   "en": "Alternaria solani"
+  },
+  "kind": "focal",
+  "urgency": "medium",
+  "summary": {
+   "uk": "Грибкове захворювання, яке починається з НИЖНІХ, старших листків і піднімається вгору. Впізнається за концентричними кільцями всередині плями — «мішень». Втрата листя оголює плоди й призводить до сонячних опіків, тож хвороба шкодить не лише листю.",
+   "en": "A fungal disease that starts on the LOWER, older leaves and moves upward. Recognised by concentric rings inside the lesion, a target pattern. Loss of foliage exposes the fruit and leads to sunscald, so the damage is not limited to leaves."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Спершу на старших листках — неправильної форми бурі плями з концентричними кільцями, до 1,5 см у діаметрі, оточені жовтим ореолом. Кільця утворюють візерунок, схожий на мішень.",
+     "en": "First on older leaves: irregular brown lesions with concentric rings, up to 1.5 cm across, surrounded by a yellow halo. The rings form a target-like pattern."
+    },
+    "source": "uky_vg25"
+   },
+   {
+    "text": {
+     "uk": "На ранній стадії плями важко відрізнити від бактеріальної плямистості. Ключ у динаміці: бактеріальна розвивається значно швидше й дає різке всихання, а в альтернаріозних плямах із часом проступають кільця.",
+     "en": "At an early stage the spots are hard to tell from bacterial spot. The key is the dynamics: bacterial spot develops much faster and causes rapid dieback, while rings emerge over time inside early blight lesions."
+    },
+    "source": "uky_vg25"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 24,
+    "max": 32
+   },
+   "leaf_wetness_hours_min": 5,
+   "text": {
+    "uk": "Сприяє тепло вище 24 °C у поєднанні з високою вологістю; пік розвитку — вище 27 °C. Пророслим спорам потрібно ще 5–10 годин мокрого листя, щоб проникнути в тканину. Ослаблені рослини уражуються сильніше.",
+    "en": "Favoured by warmth above 24 °C combined with high humidity; development peaks above 27 °C. Germinated spores need a further 5–10 hours of wet foliage to penetrate the tissue. Weakened plants are hit harder."
+   },
+   "quote": {
+    "en": "High humidity and temperatures above 75°F favor disease development for early blight ... Germinated conidia infect tissues if foliage remains wet for another 5 to 10 hours, depending on the temperature."
+   },
+   "source": "uconn_eb"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Прибрати й знищити рослинні рештки з торішнього сезону до садіння: гриб зимує саме в них, а також у ґрунті, на бульбах і на інших пасльонових.",
+     "en": "Remove and destroy last season's plant debris before planting: the fungus overwinters in it, and also in the soil, on tubers and on other solanaceous plants."
+    },
+    "source": "umn_early_blight"
+   },
+   {
+    "text": {
+     "uk": "Підтримувати рослини в доброму стані: ослаблені кущі уражуються сильніше.",
+     "en": "Keep plants in good condition: weakened ones are hit harder."
+    },
+    "source": "umn_early_blight"
+   },
+   {
+    "text": {
+     "uk": "Мульчування й полив під корінь: краплі, що відбиваються від ґрунту, переносять спори на нижні листки.",
+     "en": "Mulching and watering at the root: droplets splashing off the soil carry spores onto the lower leaves."
+    },
+    "source": "uky_vg25"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Сівозміна — не садити томат після томата чи картоплі, бо збудник зберігається в рештках.",
+     "en": "Crop rotation — do not plant tomato after tomato or potato, because the pathogen survives in residues."
+    },
+    "source": "umn_early_blight"
+   }
+  ],
+  "sources": {
+   "umn_early_blight": {
+    "title": "Early blight in tomato and potato",
+    "org": "University of Minnesota Extension",
+    "url": "https://extension.umn.edu/disease-management/early-blight-tomato-and-potato",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "uky_vg25": {
+    "title": "Early Blight and Septoria Leaf Spot of Tomato (PPFS-VG-25)",
+    "org": "University of Kentucky Cooperative Extension",
+    "url": "https://plantpathology.ca.uky.edu/files/ppfs-vg-25.pdf",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "uconn_eb": {
+    "title": "Early Blight Management in Fresh Market Tomatoes",
+    "org": "University of Connecticut IPM",
+    "url": "https://ipm.cahnr.uconn.edu/early-blight-management-in-fresh-market-tomatoes/",
+    "accessed": "2026-09-07",
+    "license": "матеріал служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "tomato__healthy": {
+  "label": "tomato__healthy",
+  "name": {
+   "uk": "Ознак хвороби не виявлено",
+   "en": "No signs of disease"
+  },
+  "kind": "healthy",
+  "urgency": "none",
+  "summary": {
+   "uk": "На цьому знімку система не бачить ознак жодної з хвороб, які вона вміє розпізнавати. Це не те саме, що «рослина здорова»: рання стадія багатьох хвороб на фото ще не видна, а частина уражень починається на нижньому боці листка або на тих листках, що не потрапили в кадр.",
+   "en": "In this photo the system sees no signs of any disease it can recognise. That is not the same as the plant being healthy: the early stage of many diseases is not yet visible in a photo, and some infections begin on the underside of leaves or on leaves outside the frame."
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Оглядати нижній бік листя й нижній ярус куща — фітофтороз і несправжня борошниста роса починаються саме там, і зверху їх спершу не видно.",
+     "en": "Inspect the underside of the leaves and the lower part of the plant — late blight and downy mildew start exactly there, and are not visible from above at first."
+    },
+    "source": "uconn"
+   },
+   {
+    "text": {
+     "uk": "Стежити за поливом: краплі на листі й змикання кущів створюють умови, за яких зараження стає питанням годин, а не тижнів.",
+     "en": "Watch the watering: droplets on the foliage and plants closing over create conditions in which infection becomes a matter of hours rather than weeks."
+    },
+    "source": "uconn"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Сівозміна — не садити томат після пасльонових, з особливою обережністю після картоплі.",
+     "en": "Crop rotation — do not plant tomato after solanaceous crops, with particular care after potato."
+    },
+    "source": "uconn"
+   },
+   {
+    "text": {
+     "uk": "Дезінфекція кілків і опор, які використовують повторно з року в рік.",
+     "en": "Disinfection of stakes and supports reused from year to year."
+    },
+    "source": "uconn"
+   },
+   {
+    "text": {
+     "uk": "Витримувати відстань між кущами й між рядами: провітрювання прискорює висихання листя.",
+     "en": "Keep spacing between plants and between rows: ventilation speeds up leaf drying."
+    },
+    "source": "uconn"
+   }
+  ],
+  "sources": {
+   "uconn": {
+    "title": "Late Blight of Tomato — UConn Integrated Pest Management",
+    "org": "University of Connecticut",
+    "url": "https://ipm.cahnr.uconn.edu/tomato-late-blight/",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської програми IPM; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "tomato__late_blight": {
+  "label": "tomato__late_blight",
+  "name": {
+   "uk": "Фітофтороз",
+   "en": "Late blight"
+  },
+  "pathogen": {
+   "uk": "Phytophthora infestans",
+   "en": "Phytophthora infestans"
+  },
+  "kind": "focal",
+  "urgency": "high",
+  "summary": {
+   "uk": "Найнебезпечніша хвороба томата й картоплі. За вологої прохолодної погоди зараження відбувається приблизно за 10 годин, а насадження гине за кілька днів. Уражає і листя, і плоди. Та сама хвороба переходить між томатом і картоплею, тож джерелом часто є сусідня грядка.",
+   "en": "The most dangerous disease of tomato and potato. In wet cool weather infection takes about 10 hours, and a planting can be lost in a few days. It affects both leaves and fruit. The same disease moves between tomato and potato, so the source is often the neighbouring bed."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "На листках спершу з'являються неправильної форми водянисті плями від блідо- до темно-зеленого кольору, оточені зоною пожовтілої тканини.",
+     "en": "On the leaves, irregular water-soaked lesions appear first, pale to dark green, surrounded by a zone of yellowing tissue."
+    },
+    "source": "uc_ipm"
+   },
+   {
+    "text": {
+     "uk": "За вологої погоди на нижньому боці листка по краю плями видно білий наліт спороношення.",
+     "en": "In wet weather a white sporulating growth is visible on the underside of the leaf along the edge of the lesion."
+    },
+    "source": "uc_ipm"
+   },
+   {
+    "text": {
+     "uk": "Знебарвлення плоду починається з ВЕРХНЬОГО боку, і уражений плід лишається твердим — це відрізняє фітофтороз від звичайних гнилей.",
+     "en": "Fruit discolouration begins on the UPPER side, and the affected fruit stays firm — this distinguishes late blight from ordinary rots."
+    },
+    "source": "uc_ipm"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 16,
+    "max": 26
+   },
+   "humidity_min": 90,
+   "text": {
+    "uk": "Помірне тепло й висока вологість. За вологості 90% і вище зараження відбувається приблизно за 10 годин. Дощі, тумани й рясні роси — найнебезпечніші умови.",
+    "en": "Moderate warmth and high humidity. At 90% humidity and above, infection takes about 10 hours. Rain, fog and heavy dew are the most dangerous conditions."
+   },
+   "quote": {
+    "en": "thrives in moderate temperatures (60-80F) with moist conditions (humidity at or above 90%) ... infection occurring in about 10 hours under ideal conditions"
+   },
+   "source": "uconn"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Уникати дощування: полив по листю створює саме ті умови, за яких зараження стає питанням годин.",
+     "en": "Avoid overhead irrigation: watering onto the foliage creates exactly the conditions in which infection becomes a matter of hours."
+    },
+    "source": "uc_ipm"
+   },
+   {
+    "text": {
+     "uk": "Забезпечити провітрювання, щоб листя щодня встигало просихати — відстань між кущами й між рядами тут вирішує.",
+     "en": "Ensure ventilation so the foliage dries every day — spacing between plants and rows is what decides this."
+    },
+    "source": "uconn"
+   },
+   {
+    "text": {
+     "uk": "Знищити всі рештки томата, картоплі, баклажана й перцю після збирання.",
+     "en": "Destroy all tomato, potato, aubergine and pepper debris after harvest."
+    },
+    "source": "uc_ipm"
+   },
+   {
+    "text": {
+     "uk": "Дезінфікувати кілки й опори, які використовують повторно з року в рік.",
+     "en": "Disinfect stakes and supports reused from year to year."
+    },
+    "source": "uconn"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Сівозміна з відходом від пасльонових, з особливою увагою до ділянок, де була уражена картопля.",
+     "en": "Crop rotation away from solanaceous crops, with particular attention to areas where potato was infected."
+    },
+    "source": "uconn"
+   },
+   {
+    "text": {
+     "uk": "Використовувати перевірену розсаду й здоровий садивний матеріал.",
+     "en": "Use tested transplants and healthy planting material."
+    },
+    "source": "uc_ipm"
+   }
+  ],
+  "sources": {
+   "uc_ipm": {
+    "title": "Late Blight — UC IPM Pest Management Guidelines",
+    "org": "University of California Statewide IPM Program",
+    "url": "https://ipm.ucanr.edu/PMG/GARDEN/VEGES/DISEASES/lateblight.html",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської програми IPM; використано витяги з атрибуцією"
+   },
+   "uconn": {
+    "title": "Late Blight of Tomato",
+    "org": "University of Connecticut IPM",
+    "url": "https://ipm.cahnr.uconn.edu/tomato-late-blight/",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської програми IPM; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "tomato__leaf_mold": {
+  "label": "tomato__leaf_mold",
+  "name": {
+   "uk": "Кладоспоріоз",
+   "en": "Leaf mold"
+  },
+  "pathogen": {
+   "uk": "Passalora fulva",
+   "en": "Passalora fulva"
+  },
+  "kind": "focal",
+  "urgency": "medium",
+  "summary": {
+   "uk": "Передусім хвороба тепличного томата, і найсильніша саме в плівкових теплицях, де вологість висока. У відкритому ґрунті трапляється рідко. Ключ до боротьби не в препаратах, а у вологості: нижче 85% біля поверхні листка хвороба здебільшого не розвивається.",
+   "en": "Primarily a disease of greenhouse tomato, and most severe in plastic houses where humidity is high. It is rare outdoors. The key to control is not in products but in humidity: below 85% at the leaf surface the disease mostly does not develop."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Спершу на ВЕРХНЬОМУ боці листка з'являються блідо-зелені або жовтуваті плями, які збільшуються й набувають виразного жовтого кольору.",
+     "en": "Pale green or yellowish spots appear first on the UPPER leaf surface, enlarging and turning a distinct yellow."
+    },
+    "source": "clemson"
+   },
+   {
+    "text": {
+     "uk": "За вологих умов на НИЖНЬОМУ боці під цими плямами утворюється сірий оксамитовий наліт спороношення — це головна діагностична ознака.",
+     "en": "In humid conditions a grey velvety sporulating growth forms on the LOWER surface beneath these spots — this is the main diagnostic sign."
+    },
+    "source": "clemson"
+   },
+   {
+    "text": {
+     "uk": "Першими уражуються старіші листки в нижній частині куща, де повітрообмін гірший, а вологість вища.",
+     "en": "The older leaves in the lower part of the plant are affected first, where air movement is poorer and humidity higher."
+    },
+    "source": "clemson"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 20,
+    "max": 24
+   },
+   "humidity_min": 85,
+   "text": {
+    "uk": "Найруйнівніший за вологості понад 85%; оптимум температури 20–24 °C, хоча хвороба можлива й за холоднішої, і за тепліших умов.",
+    "en": "Most destructive above 85% humidity; the optimal temperature is 20–24 °C, although the disease can occur in both cooler and warmer conditions."
+   },
+   "quote": {
+    "en": "The fungus is most destructive when humidity is high (greater than 85%); temperatures between 68°F to 75°F are optimum but disease can occur at cooler and warmer temperatures."
+   },
+   "source": "clemson"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Головний захід — тримати відносну вологість біля поверхні листка нижче 85%: провітрювання, обігрів уночі, розрідження куща. Джерело прямо каже, що за такої вологості хвороба здебільшого не буває тяжкою.",
+     "en": "The main measure is to keep relative humidity at the leaf surface below 85%: ventilation, night heating, thinning the plant. The source states directly that at such humidity the disease is usually not severe."
+    },
+    "quote": {
+     "en": "The disease usually will not be severe if the relative humidity at the leaf surface is kept below 85%."
+    },
+    "source": "clemson"
+   },
+   {
+    "text": {
+     "uk": "Не поливати по листю й не залишати краплинну вологу на ніч.",
+     "en": "Do not water onto the foliage and do not leave droplets on it overnight."
+    },
+    "source": "clemson"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Стійкі гібриди для теплиць; дезінфекція конструкцій між сезонами.",
+     "en": "Resistant greenhouse hybrids; disinfection of structures between seasons."
+    },
+    "source": "clemson"
+   }
+  ],
+  "sources": {
+   "clemson": {
+    "title": "Tomato Diseases & Disorders",
+    "org": "Clemson Cooperative Extension",
+    "url": "https://hgic.clemson.edu/factsheet/tomato-diseases-disorders/",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "tomato__mosaic_virus": {
+  "label": "tomato__mosaic_virus",
+  "name": {
+   "uk": "Вірус мозаїки",
+   "en": "Mosaic virus"
+  },
+  "pathogen": {
+   "uk": "Tomato mosaic virus (ToMV)",
+   "en": "Tomato mosaic virus (ToMV)"
+  },
+  "kind": "diffuse",
+  "urgency": "high",
+  "summary": {
+   "uk": "Вірусне захворювання без лікування. Уражений увесь кущ, а не окремі ділянки, тож шукати плями немає сенсу. Ключова особливість: вірус передається простим ДОТИКОМ — руками, інструментом, одягом, — і зберігається в ґрунті та рештках до двох років.",
+   "en": "A viral disease with no cure. The whole plant is affected rather than separate areas, so looking for spots makes no sense. The key feature: the virus is transmitted by simple TOUCH — hands, tools, clothing — and survives in soil and debris for up to two years."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Загальна мозаїчність листя: чергування світло- й темно-зелених ділянок. Листя буває скручене, деформоване або здрібнене.",
+     "en": "A general mosaic of the foliage: alternating light and dark green areas. Leaves may be curled, deformed or reduced in size."
+    },
+    "source": "umn_viruses"
+   },
+   {
+    "text": {
+     "uk": "За сильного ураження листя стає схожим на папороть, із піднятими темно-зеленими ділянками.",
+     "en": "In severe cases the leaves come to look fern-like, with raised dark green areas."
+    },
+    "source": "umn_viruses"
+   },
+   {
+    "text": {
+     "uk": "Різко падає зав'язування плодів, а ті, що зав'язались, бувають із жовтими плямами й некрозом, із побурінням усередині.",
+     "en": "Fruit set drops sharply, and the fruit that does set may show yellow blotches and necrosis, with browning inside."
+    },
+    "source": "umn_viruses"
+   }
+  ],
+  "favouring": null,
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Мити руки з милом і дезінфікувати інструмент після роботи з томатами. Санітарія тут головний і практично єдиний дієвий захід.",
+     "en": "Wash hands with soap and disinfect tools after handling tomatoes. Sanitation is the main and practically the only effective measure here."
+    },
+    "source": "umn_viruses"
+   },
+   {
+    "text": {
+     "uk": "Не курити й не працювати з тютюном біля насаджень: вірус цієї групи зберігається в тютюновій продукції.",
+     "en": "Do not smoke or handle tobacco near the planting: viruses of this group survive in tobacco products."
+    },
+    "source": "umn_viruses"
+   },
+   {
+    "text": {
+     "uk": "Видаляти уражені рослини разом із коренями й не закладати їх у компост.",
+     "en": "Remove affected plants together with their roots and do not put them in compost."
+    },
+    "source": "umn_viruses"
+   }
+  ],
+  "chemical": [],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Стійкі сорти — існують гібриди, спеціально виведені на стійкість до ToMV.",
+     "en": "Resistant cultivars — there are hybrids bred specifically for resistance to ToMV."
+    },
+    "source": "umn_viruses"
+   },
+   {
+    "text": {
+     "uk": "Пам'ятати про строк збереження: вірус лишається живим у ґрунті й рештках до двох років, тож повертати томат на цю ділянку рано не варто.",
+     "en": "Remember how long it survives: the virus stays alive in soil and debris for up to two years, so tomato should not return to that plot early."
+    },
+    "source": "umn_viruses"
+   }
+  ],
+  "no_cure": {
+   "uk": "Лікування вірусів рослин не існує. Усі заходи спрямовані лише на те, щоб не рознести його далі.",
+   "quote": {
+    "en": "There is no cure for plant viruses; management actions should focus on preventing virus spread."
+   },
+   "source": "umn_viruses",
+   "en": "There is no cure for plant viruses. Every measure serves only to stop it spreading further."
+  },
+  "sources": {
+   "umn_viruses": {
+    "title": "Tomato viruses",
+    "org": "University of Minnesota Extension",
+    "url": "https://extension.umn.edu/disease-management/tomato-viruses",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "tomato__septoria_leaf_spot": {
+  "label": "tomato__septoria_leaf_spot",
+  "name": {
+   "uk": "Септоріоз",
+   "en": "Septoria leaf spot"
+  },
+  "pathogen": {
+   "uk": "Septoria lycopersici",
+   "en": "Septoria lycopersici"
+  },
+  "kind": "focal",
+  "urgency": "medium",
+  "summary": {
+   "uk": "Грибкове захворювання ЛИСТЯ томата — плоди воно не уражує. Дає багато дрібних плям, тоді як альтернаріоз — менше, але більших і з кільцями. Часто обидві хвороби присутні одночасно, і заходи проти них однакові.",
+   "en": "A fungal disease of tomato FOLIAGE — it does not affect the fruit. It produces many small spots, whereas early blight produces fewer but larger ones with rings. The two diseases are often present together, and the measures against them are the same."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Численні дрібні плями на листі, значно менші за альтернаріозні й без концентричних кілець.",
+     "en": "Numerous small spots on the leaves, much smaller than early blight lesions and without concentric rings."
+    },
+    "source": "uky_vg25"
+   },
+   {
+    "text": {
+     "uk": "Уражує лише листя; як гниль плодів септоріоз значення не має.",
+     "en": "It affects only the leaves; as a fruit rot Septoria is of no importance."
+    },
+    "source": "uky_vg25"
+   },
+   {
+    "text": {
+     "uk": "Разом з альтернаріозом спричиняє втрату листя, через що плоди отримують сонячні опіки — а це вже відкриває шлях антракнозу.",
+     "en": "Together with early blight it causes leaf loss, which exposes the fruit to sunscald — and that in turn opens the way for anthracnose."
+    },
+    "source": "uky_vg25"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 20,
+    "max": 25
+   },
+   "leaf_wetness_hours_min": 5,
+   "text": {
+    "uk": "Вужчий і прохолодніший діапазон, ніж в альтернаріозу: 20–25 °C. Головна умова — тривале зволоження листя, тож септоріоз з'являється раніше в сезоні, за прохолодної вологої погоди.",
+    "en": "A narrower and cooler range than early blight: 20–25 °C. The main requirement is prolonged leaf wetness, so Septoria appears earlier in the season, in cool wet weather."
+   },
+   "quote": {
+    "en": "Early blight is favored by temperatures above 75°F, while Septoria thrives between 68 and 77°F ... Septoria occurs early in the season, preferring cool wet weather, and thrives with prolonged leaf wetness."
+   },
+   "source": "uconn_eb"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Санітарія — головний захід: прибрати всі рослинні рештки минулого сезону до обробітку ґрунту й садіння.",
+     "en": "Sanitation is the main measure: remove all of last season's plant debris before tilling and planting."
+    },
+    "source": "uky_vg25"
+   },
+   {
+    "text": {
+     "uk": "Схема захисту спільна з альтернаріозом і антракнозом — окремих заходів саме проти септоріозу не потрібно.",
+     "en": "The protection programme is shared with early blight and anthracnose — no separate measures against Septoria alone are needed."
+    },
+    "source": "uky_vg25"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Не залишати рослинні рештки на грядці на зиму.",
+     "en": "Do not leave plant debris in the bed over winter."
+    },
+    "source": "uky_vg25"
+   }
+  ],
+  "sources": {
+   "umn_early_blight": {
+    "title": "Early blight in tomato and potato",
+    "org": "University of Minnesota Extension",
+    "url": "https://extension.umn.edu/disease-management/early-blight-tomato-and-potato",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "uky_vg25": {
+    "title": "Early Blight and Septoria Leaf Spot of Tomato (PPFS-VG-25)",
+    "org": "University of Kentucky Cooperative Extension",
+    "url": "https://plantpathology.ca.uky.edu/files/ppfs-vg-25.pdf",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "uconn_eb": {
+    "title": "Early Blight Management in Fresh Market Tomatoes",
+    "org": "University of Connecticut IPM",
+    "url": "https://ipm.cahnr.uconn.edu/early-blight-management-in-fresh-market-tomatoes/",
+    "accessed": "2026-09-07",
+    "license": "матеріал служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "tomato__spider_mites": {
+  "label": "tomato__spider_mites",
+  "name": {
+   "uk": "Павутинний кліщ",
+   "en": "Spider mites"
+  },
+  "pathogen": {
+   "uk": "Tetranychus urticae",
+   "en": "Tetranychus urticae"
+  },
+  "kind": "pest",
+  "urgency": "medium",
+  "summary": {
+   "uk": "Це не хвороба, а шкідник — дрібний кліщ, що живиться з нижнього боку листка. Через це й заходи інші: фунгіциди тут не діють. Кліщ множиться вибухово в спеку й суху погоду, а ослаблені рослини страждають сильніше.",
+   "en": "This is not a disease but a pest — a tiny mite that feeds on the underside of the leaf. That is why the measures differ: fungicides do not work here. The mite multiplies explosively in heat and dry weather, and weakened plants suffer more."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Спершу дрібний блідий крап на листі, ніби листок обсипано порошком. Далі листя стає блідо-зеленим, жовтуватим або білястим великими ділянками.",
+     "en": "At first a fine pale stippling on the leaves, as if dusted with powder. Then the foliage turns pale green, yellowish or whitish over large areas."
+    },
+    "source": "uc_ipm_mites"
+   },
+   {
+    "text": {
+     "uk": "З нижнього боку листка, де кліщ здебільшого живиться, помітні світлі скинуті шкурки й павутина.",
+     "en": "On the underside of the leaf, where the mite mostly feeds, pale cast skins and webbing are visible."
+    },
+    "source": "uc_ipm_mites"
+   },
+   {
+    "text": {
+     "uk": "Оглядати треба саме нижній бік листка: зверху видно лише наслідки.",
+     "en": "It is the underside of the leaf that must be inspected: from above only the consequences are visible."
+    },
+    "source": "uc_ipm_mites"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 27,
+    "max": 40
+   },
+   "text": {
+    "uk": "Спека від 27 °C і суха погода — на відміну від усіх грибкових хвороб, яким потрібна волога. Стресовані рослини вразливіші, причому стрес створює і надлишок, і нестача — як азотного живлення, так і поливу.",
+    "en": "Heat from 27 °C and dry weather — unlike all the fungal diseases, which need moisture. Stressed plants are more vulnerable, and stress comes from both excess and shortage, of nitrogen feeding as much as of water."
+   },
+   "quote": {
+    "en": "maintaining a healthy crop is important as stressed plants are more vulnerable to twospotted spider mite infestations, and high or low levels of nitrogen fertilizers and drought or overwatering can stimulate mite problems"
+   },
+   "source": "uc_ipm_mites"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Тримати рослини в доброму стані: і надмірне, і недостатнє азотне живлення, і посуха, і перезволоження однаково провокують спалах.",
+     "en": "Keep plants in good condition: excessive and insufficient nitrogen, drought and overwatering all equally trigger an outbreak."
+    },
+    "source": "uc_ipm_mites"
+   },
+   {
+    "text": {
+     "uk": "Берегти природних ворогів — хижі кліщі є найважливішим засобом біологічного контролю; також допомагають золотоочки, хижі клопи й трипси.",
+     "en": "Protect natural enemies — predatory mites are the most important means of biological control; lacewings, predatory bugs and thrips also help."
+    },
+    "source": "uc_ipm_mites"
+   },
+   {
+    "text": {
+     "uk": "Змивання водою з нижнього боку листя збиває чисельність на ранній стадії.",
+     "en": "Washing the underside of the leaves with water knocks numbers back at an early stage."
+    },
+    "source": "uc_ipm_mites"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Не застосовувати широкоспектральні інсектициди без потреби: вони вбивають хижаків, і після обробки спалах кліща часто сильніший, ніж був до неї.",
+     "en": "Do not use broad-spectrum insecticides without need: they kill the predators, and after such a spray the mite outbreak is often worse than before it."
+    },
+    "source": "uc_ipm_mites"
+   }
+  ],
+  "sources": {
+   "uc_ipm_mites": {
+    "title": "Twospotted Spider Mites — UC IPM Pest Management Guidelines",
+    "org": "University of California Statewide IPM Program",
+    "url": "https://ipm.ucanr.edu/agriculture/floriculture-and-ornamental-nurseries/twospotted-spider-mite/",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської програми IPM; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "tomato__target_spot": {
+  "label": "tomato__target_spot",
+  "name": {
+   "uk": "Кільцева плямистість",
+   "en": "Target spot"
+  },
+  "pathogen": {
+   "uk": "Corynespora cassiicola",
+   "en": "Corynespora cassiicola"
+  },
+  "kind": "focal",
+  "urgency": "medium",
+  "summary": {
+   "uk": "Грибкове захворювання, яке легко сплутати з альтернаріозом: обидва дають плями з кільцями. Розвивається за помірного тепла. Саме на цій парі система найчастіше вагається, тому для томата вона й переходить у режим короткого списку замість одного діагнозу.",
+   "en": "A fungal disease easily confused with early blight: both produce lesions with rings. It develops in moderate warmth. This is the pair the system hesitates over most often, which is why for tomato it switches to a shortlist instead of a single diagnosis."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "На листках спершу з'являються дрібні некротичні плями зі світло-бурим центром і темною облямівкою.",
+     "en": "Small necrotic lesions with a light brown centre and a dark margin appear first on the leaves."
+    },
+    "source": "ufl_ipm"
+   },
+   {
+    "text": {
+     "uk": "З ростом плями всередині проступають концентричні кільця — звідси й назва. Відрізнити від альтернаріозу за одним листком часто неможливо навіть агроному.",
+     "en": "As the lesion grows, concentric rings emerge inside it — hence the name. Telling it from early blight on a single leaf is often impossible even for an agronomist."
+    },
+    "source": "ufl_ipm"
+   }
+  ],
+  "favouring": {
+   "temperature_c": {
+    "min": 21,
+    "max": 27
+   },
+   "text": {
+    "uk": "Помірні температури 21–27 °C у поєднанні з тривалим зволоженням листя.",
+    "en": "Moderate temperatures of 21–27 °C combined with prolonged leaf wetness."
+   },
+   "quote": {
+    "en": "Target spot is favored by moderate temperatures (70-80°F)."
+   },
+   "source": "ufl_ipm"
+  },
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Провітрювання насаджень і полив під корінь: тривале зволоження листя — необхідна умова зараження.",
+     "en": "Ventilation of the planting and watering at the root: prolonged leaf wetness is a necessary condition for infection."
+    },
+    "source": "ufl_ipm"
+   },
+   {
+    "text": {
+     "uk": "Видаляти уражене листя з нижнього ярусу й знищувати рештки після збирання.",
+     "en": "Remove affected leaves from the lower tier and destroy residues after harvest."
+    },
+    "source": "clemson"
+   }
+  ],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Сівозміна й контроль бур'янів родини пасльонових, які слугують резервуаром збудника.",
+     "en": "Crop rotation and control of solanaceous weeds, which serve as a reservoir for the pathogen."
+    },
+    "source": "clemson"
+   }
+  ],
+  "sources": {
+   "ufl_ipm": {
+    "title": "Target Spot",
+    "org": "University of Florida IFAS Extension",
+    "url": "https://ipm.ifas.ufl.edu/pdfs/Target_Spot.pdf",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   },
+   "clemson": {
+    "title": "Tomato Diseases & Disorders",
+    "org": "Clemson Cooperative Extension",
+    "url": "https://hgic.clemson.edu/factsheet/tomato-diseases-disorders/",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської служби поширення знань; використано витяги з атрибуцією"
+   }
+  }
+ },
+ "tomato__yellow_leaf_curl_virus": {
+  "label": "tomato__yellow_leaf_curl_virus",
+  "name": {
+   "uk": "Вірус жовтої курчавості листя",
+   "en": "Tomato yellow leaf curl virus"
+  },
+  "pathogen": {
+   "uk": "Tomato yellow leaf curl virus (TYLCV)",
+   "en": "Tomato yellow leaf curl virus (TYLCV)"
+  },
+  "kind": "diffuse",
+  "urgency": "high",
+  "summary": {
+   "uk": "Вірусне захворювання, яке переносить білокрилка. Лікування не існує: заражена рослина не одужає, тож усі заходи спрямовані на те, щоб вірус не перейшов на сусідні кущі. Уражений увесь кущ, а не окремі ділянки, тому шукати плями немає сенсу — діагноз ставлять за формою й кольором листя загалом.",
+   "en": "A viral disease carried by whitefly. There is no cure: an infected plant will not recover, so every measure aims at keeping the virus off the neighbouring plants. The whole plant is affected rather than separate areas, so looking for spots makes no sense — the diagnosis is made from the shape and colour of the foliage as a whole."
+  },
+  "symptoms": [
+   {
+    "text": {
+     "uk": "Пожовтіння країв листка, загинання листкової пластинки догори «човником», мозаїчна плямистість, здрібнення листя й опадання квіток.",
+     "en": "Yellowing of the leaf edges, upward cupping of the leaf blade, mottling, reduced leaf size and flower drop."
+    },
+    "source": "uc_ipm"
+   },
+   {
+    "text": {
+     "uk": "У важких випадках квітки й зав'язь опадають, а ріст рослини припиняється.",
+     "en": "In severe cases the flowers and fruitlets drop and the plant stops growing."
+    },
+    "source": "uc_ipm"
+   },
+   {
+    "text": {
+     "uk": "Вірус НЕ передається насінням і не переноситься механічно — лише білокрилкою. Тобто інструмент чи руки сусідній кущ не заразять.",
+     "en": "The virus is NOT seed-borne and is not transmitted mechanically — only by whitefly. So tools or hands will not infect the neighbouring plant."
+    },
+    "source": "uc_ipm"
+   }
+  ],
+  "favouring": null,
+  "agrotechnical": [
+   {
+    "text": {
+     "uk": "Видаляти рослини з першими ознаками, складаючи їх одразу в поліетиленовий пакет — щоб білокрилка не злетіла на сусідні кущі. Найважливіші перші три-чотири тижні сезону.",
+     "en": "Remove plants at the first signs, putting them straight into a plastic bag so the whitefly does not fly to neighbouring plants. The first three to four weeks of the season matter most."
+    },
+    "quote": {
+     "en": "Rogue tomato or pepper plants with early symptoms of TYLCV can be removed from fields by placing infected-looking plants in plastic bags immediately at the beginning season, especially during first three to four weeks."
+    },
+    "source": "uc_ipm"
+   },
+   {
+    "text": {
+     "uk": "Знищувати бур'яни — резервуари білокрилки та рослинні рештки попередніх культур.",
+     "en": "Destroy weeds that host whitefly, and crop residues from previous plantings."
+    },
+    "source": "uc_ipm"
+   },
+   {
+    "text": {
+     "uk": "Укривати рослини дрібносітчастим агроволокном для захисту від білокрилки.",
+     "en": "Cover plants with fine mesh row cover to protect them from whitefly."
+    },
+    "source": "uc_ipm"
+   }
+  ],
+  "chemical": [],
+  "prevention": [
+   {
+    "text": {
+     "uk": "Стійкі до TYLCV гібриди — єдиний надійний захід там, де хвороба вже з'являлась.",
+     "en": "TYLCV-resistant hybrids are the only reliable measure where the disease has already appeared."
+    },
+    "source": "uc_ipm"
+   },
+   {
+    "text": {
+     "uk": "Не садити томат поряд із перцем і не лишати поблизу торішні рештки баштанних — це шляхи, якими білокрилка приходить у нове насадження.",
+     "en": "Do not plant tomato next to pepper and do not leave last year's cucurbit debris nearby — these are the routes by which whitefly reaches a new planting."
+    },
+    "source": "uc_ipm"
+   }
+  ],
+  "no_cure": {
+   "uk": "Лікування не існує. Заражена рослина не одужає — заходи захищають лише ті кущі, які ще здорові.",
+   "quote": {
+    "en": "There is no treatment against TYLCV."
+   },
+   "source": "uc_ipm",
+   "en": "There is no cure. An infected plant will not recover — the measures protect only the plants that are still healthy."
+  },
+  "sources": {
+   "uc_ipm": {
+    "title": "Tomato Yellow Leaf Curl — UC IPM Pest Management Guidelines: Tomato",
+    "org": "University of California Statewide IPM Program",
+    "url": "https://ipm.ucanr.edu/agriculture/tomato/tomato-yellow-leaf-curl/",
+    "accessed": "2026-08-29",
+    "license": "матеріал університетської програми IPM; використано витяги з атрибуцією"
+   }
+  }
+ }
+}
